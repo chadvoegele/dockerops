@@ -1,0 +1,11 @@
+#!/bin/bash
+echo "Renewing certs"
+/usr/bin/letsencrypt renew ${LE_ENV}
+echo "Reloading NGINX config"
+docker kill --signal=HUP nginx_gateway
+echo "Reloading ledger-rest"
+docker restart ledger-rest
+echo "Reloading budget-charts"
+docker kill --signal=HUP budget-charts
+echo "Reloading gogs"
+docker restart gogs

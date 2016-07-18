@@ -1,0 +1,83 @@
+version: "2"
+services:
+  nginx-gateway:
+    container_name: nginx-gateway
+    build:
+      context: nginx
+      args:
+        - DOMAIN=${DOMAIN}
+        - GIT_DOMAIN=${GIT_DOMAIN}
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ${ROOT}/tmp/letsencrypt-www:/tmp/letsencrypt-www:ro
+      - ${ROOT}/etc/letsencrypt:/etc/letsencrypt:ro
+    links:
+      - ledger-rest
+      - budget-charts
+      - gogs
+    depends_on:
+      - ledger-rest
+      - budget-charts
+      - gogs
+  letsencrypt:
+    container_name: letsencrypt
+    build:
+      context: letsencrypt
+      args:
+        - LE_ENV=${LE_ENV}
+        - LE_FREQ=${LE_FREQ}
+    restart: always
+    volumes:
+      - ${ROOT}/tmp/letsencrypt-www:/tmp/letsencrypt-www
+      - ${ROOT}/etc/letsencrypt:/etc/letsencrypt
+      - /var/run/docker.sock:/var/run/docker.sock
+    depends_on:
+      - nginx-gateway
+  ledger-rest:
+    container_name: ledger-rest
+    build:
+      context: ledger-rest
+    restart: always
+    expose:
+      - "9856"
+    volumes:
+      - ${ROOT}/etc/letsencrypt:/etc/letsencrypt:ro
+    entrypoint:
+      - ledger-rest
+      - -c
+      - /etc/letsencrypt/live/${DOMAIN}/fullchain.pem
+      - -f
+      - /etc/ledger-rest/data.txt
+      - -k
+      - /etc/letsencrypt/live/${DOMAIN}/privkey.pem
+      - -l
+      - "9"
+      - -p
+      - "9856"
+      - -e
+      - ""
+  budget-charts:
+    container_name: budget-charts
+    build:
+      context: budget-charts
+      args:
+        - DOMAIN=${DOMAIN}
+    restart: always
+    expose:
+      - "9857"
+    volumes:
+      - ${ROOT}/etc/letsencrypt:/etc/letsencrypt:ro
+  gogs:
+    container_name: gogs
+    build:
+      context: gogs
+    restart: always
+    ports:
+      - "3000"
+      - "10022:22"
+    volumes:
+      - ${ROOT}/etc/letsencrypt:/etc/letsencrypt:ro
+      - ${ROOT}/mnt/git/gogs:/data:rw

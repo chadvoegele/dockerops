@@ -1,0 +1,7637 @@
+~Monthly
+  income   -$100
+  expenses:fun   $200
+  expenses:gas   $200
+  assets:checking
+
+~Monthly from 2000/1/1 to 2010/1/1
+  expenses:rent   $1000
+  assets:checking
+
+~Monthly from 2010/1/2 to 2020/1/1
+  expenses:rent   $1500
+  assets:checking
+
+~Weekly
+  expenses:groceries   $100
+  assets:checking
+
+2000/01/01 me
+    income                                   $-99.93
+    assets:checking
+
+2000/01/01 Shell
+    assets:checking                          $-38.47
+    expenses:gas
+
+2000/01/01 Harris Teeter
+    assets:checking                          $-45.51
+    expenses:groceries
+
+2000/01/01 Scoops Lounge
+    assets:checking                          $-32.39
+    expenses:fun
+
+2000/01/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2000/01/09 BP
+    assets:checking                          $-39.56
+    expenses:gas
+
+2000/01/11 Piggly Wiggly
+    assets:checking                          $-45.59
+    expenses:groceries
+
+2000/01/16 Movies 8
+    assets:checking                          $-33.42
+    expenses:fun
+
+2000/01/18 Shell
+    assets:checking                          $-37.63
+    expenses:gas
+
+2000/01/20 Safeway
+    assets:checking                          $-47.99
+    expenses:groceries
+
+2000/01/27 Pilot
+    assets:checking                          $-39.44
+    expenses:gas
+
+2000/01/29 me
+    income                                   $-99.97
+    assets:checking
+
+2000/01/29 Piggly Wiggly
+    assets:checking                          $-50.36
+    expenses:groceries
+
+2000/02/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2000/02/03 Movies 8
+    assets:checking                          $-38.07
+    expenses:fun
+
+2000/02/07 Piggly Wiggly
+    assets:checking                          $-54.24
+    expenses:groceries
+
+2000/02/08 BP
+    assets:checking                          $-41.86
+    expenses:gas
+
+2000/02/15 Piggly Wiggly
+    assets:checking                          $-53.86
+    expenses:groceries
+
+2000/02/16 Movies 8
+    assets:checking                          $-40.43
+    expenses:fun
+
+2000/02/20 BP
+    assets:checking                          $-42.03
+    expenses:gas
+
+2000/02/23 Piggly Wiggly
+    assets:checking                          $-54.97
+    expenses:groceries
+
+2000/02/26 me
+    income                                  $-100.01
+    assets:checking
+
+2000/02/27 BP
+    assets:checking                          $-40.53
+    expenses:gas
+
+2000/03/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2000/03/04 Safeway
+    assets:checking                          $-46.69
+    expenses:groceries
+
+2000/03/05 BP
+    assets:checking                          $-37.30
+    expenses:gas
+
+2000/03/10 Scoops Lounge
+    assets:checking                          $-40.68
+    expenses:fun
+
+2000/03/14 Piggly Wiggly
+    assets:checking                          $-56.29
+    expenses:groceries
+
+2000/03/17 Shell
+    assets:checking                          $-37.60
+    expenses:gas
+
+2000/03/24 Harris Teeter
+    assets:checking                          $-48.14
+    expenses:groceries
+
+2000/03/25 me
+    income                                  $-100.05
+    assets:checking
+
+2000/03/27 BP
+    assets:checking                          $-41.46
+    expenses:gas
+
+2000/03/30 Karts+
+    assets:checking                          $-49.76
+    expenses:fun
+
+2000/04/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2000/04/03 Piggly Wiggly
+    assets:checking                          $-51.88
+    expenses:groceries
+
+2000/04/07 BP
+    assets:checking                          $-40.50
+    expenses:gas
+
+2000/04/12 Piggly Wiggly
+    assets:checking                          $-54.86
+    expenses:groceries
+
+2000/04/12 Scoops Lounge
+    assets:checking                          $-51.45
+    expenses:fun
+
+2000/04/14 BP
+    assets:checking                          $-37.03
+    expenses:gas
+
+2000/04/22 me
+    income                                  $-100.09
+    assets:checking
+
+2000/04/22 Safeway
+    assets:checking                          $-55.17
+    expenses:groceries
+
+2000/04/25 Pilot
+    assets:checking                          $-41.66
+    expenses:gas
+
+2000/05/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2000/05/02 Shell
+    assets:checking                          $-40.51
+    expenses:gas
+
+2000/05/04 Harris Teeter
+    assets:checking                          $-54.29
+    expenses:groceries
+
+2000/05/05 Scoops Lounge
+    assets:checking                          $-55.45
+    expenses:fun
+
+2000/05/13 Safeway
+    assets:checking                          $-54.23
+    expenses:groceries
+
+2000/05/14 BP
+    assets:checking                          $-42.32
+    expenses:gas
+
+2000/05/20 me
+    income                                  $-100.13
+    assets:checking
+
+2000/05/22 Piggly Wiggly
+    assets:checking                          $-48.03
+    expenses:groceries
+
+2000/05/22 Karts+
+    assets:checking                          $-62.86
+    expenses:fun
+
+2000/05/24 Shell
+    assets:checking                          $-36.11
+    expenses:gas
+
+2000/06/01 Harris Teeter
+    assets:checking                          $-53.26
+    expenses:groceries
+
+2000/06/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2000/06/05 Pilot
+    assets:checking                          $-40.80
+    expenses:gas
+
+2000/06/10 Piggly Wiggly
+    assets:checking                          $-49.07
+    expenses:groceries
+
+2000/06/13 Scoops Lounge
+    assets:checking                          $-68.83
+    expenses:fun
+
+2000/06/17 me
+    income                                  $-100.17
+    assets:checking
+
+2000/06/17 Shell
+    assets:checking                          $-36.85
+    expenses:gas
+
+2000/06/18 Safeway
+    assets:checking                          $-49.77
+    expenses:groceries
+
+2000/06/24 BP
+    assets:checking                          $-41.02
+    expenses:gas
+
+2000/06/27 Scoops Lounge
+    assets:checking                          $-70.03
+    expenses:fun
+
+2000/06/29 Piggly Wiggly
+    assets:checking                          $-56.12
+    expenses:groceries
+
+2000/07/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2000/07/06 BP
+    assets:checking                          $-42.37
+    expenses:gas
+
+2000/07/06 Piggly Wiggly
+    assets:checking                          $-53.51
+    expenses:groceries
+
+2000/07/15 me
+    income                                  $-100.21
+    assets:checking
+
+2000/07/15 Pilot
+    assets:checking                          $-40.99
+    expenses:gas
+
+2000/07/17 Piggly Wiggly
+    assets:checking                          $-55.01
+    expenses:groceries
+
+2000/07/17 Scoops Lounge
+    assets:checking                          $-70.48
+    expenses:fun
+
+2000/07/23 Shell
+    assets:checking                          $-42.51
+    expenses:gas
+
+2000/07/25 Piggly Wiggly
+    assets:checking                          $-52.99
+    expenses:groceries
+
+2000/08/01 BP
+    assets:checking                          $-36.34
+    expenses:gas
+
+2000/08/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2000/08/05 Safeway
+    assets:checking                          $-57.95
+    expenses:groceries
+
+2000/08/09 Shell
+    assets:checking                          $-42.53
+    expenses:gas
+
+2000/08/09 Movies 8
+    assets:checking                          $-82.40
+    expenses:fun
+
+2000/08/12 me
+    income                                  $-100.25
+    assets:checking
+
+2000/08/14 Harris Teeter
+    assets:checking                          $-53.47
+    expenses:groceries
+
+2000/08/16 Pilot
+    assets:checking                          $-39.11
+    expenses:gas
+
+2000/08/22 Harris Teeter
+    assets:checking                          $-51.79
+    expenses:groceries
+
+2000/08/27 Shell
+    assets:checking                          $-36.37
+    expenses:gas
+
+2000/08/28 Karts+
+    assets:checking                          $-75.45
+    expenses:fun
+
+2000/09/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2000/09/02 Piggly Wiggly
+    assets:checking                          $-54.93
+    expenses:groceries
+
+2000/09/06 BP
+    assets:checking                          $-42.92
+    expenses:gas
+
+2000/09/09 me
+    income                                  $-100.29
+    assets:checking
+
+2000/09/09 Harris Teeter
+    assets:checking                          $-57.10
+    expenses:groceries
+
+2000/09/17 Piggly Wiggly
+    assets:checking                          $-51.82
+    expenses:groceries
+
+2000/09/18 BP
+    assets:checking                          $-40.94
+    expenses:gas
+
+2000/09/19 Scoops Lounge
+    assets:checking                          $-93.52
+    expenses:fun
+
+2000/09/24 Piggly Wiggly
+    assets:checking                          $-55.57
+    expenses:groceries
+
+2000/09/27 BP
+    assets:checking                          $-41.88
+    expenses:gas
+
+2000/10/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2000/10/02 Piggly Wiggly
+    assets:checking                          $-59.95
+    expenses:groceries
+
+2000/10/07 me
+    income                                  $-100.33
+    assets:checking
+
+2000/10/09 Pilot
+    assets:checking                          $-38.42
+    expenses:gas
+
+2000/10/13 Karts+
+    assets:checking                          $-92.86
+    expenses:fun
+
+2000/10/14 Harris Teeter
+    assets:checking                          $-58.33
+    expenses:groceries
+
+2000/10/17 Shell
+    assets:checking                          $-36.86
+    expenses:gas
+
+2000/10/24 Pilot
+    assets:checking                          $-43.64
+    expenses:gas
+
+2000/10/24 Harris Teeter
+    assets:checking                          $-58.62
+    expenses:groceries
+
+2000/10/30 Karts+
+    assets:checking                          $-96.24
+    expenses:fun
+
+2000/11/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2000/11/04 me
+    income                                  $-100.37
+    assets:checking
+
+2000/11/05 Pilot
+    assets:checking                          $-44.39
+    expenses:gas
+
+2000/11/05 Piggly Wiggly
+    assets:checking                          $-59.53
+    expenses:groceries
+
+2000/11/13 Scoops Lounge
+    assets:checking                         $-107.44
+    expenses:fun
+
+2000/11/14 Harris Teeter
+    assets:checking                          $-57.31
+    expenses:groceries
+
+2000/11/15 BP
+    assets:checking                          $-41.72
+    expenses:gas
+
+2000/11/23 Harris Teeter
+    assets:checking                          $-57.91
+    expenses:groceries
+
+2000/11/24 Pilot
+    assets:checking                          $-41.78
+    expenses:gas
+
+2000/11/26 Movies 8
+    assets:checking                          $-97.06
+    expenses:fun
+
+2000/12/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2000/12/02 me
+    income                                  $-100.41
+    assets:checking
+
+2000/12/02 Safeway
+    assets:checking                          $-53.32
+    expenses:groceries
+
+2000/12/06 BP
+    assets:checking                          $-40.55
+    expenses:gas
+
+2000/12/11 Piggly Wiggly
+    assets:checking                          $-60.29
+    expenses:groceries
+
+2000/12/15 Karts+
+    assets:checking                         $-104.85
+    expenses:fun
+
+2000/12/17 Shell
+    assets:checking                          $-43.64
+    expenses:gas
+
+2000/12/21 Safeway
+    assets:checking                          $-59.13
+    expenses:groceries
+
+2000/12/26 Pilot
+    assets:checking                          $-38.32
+    expenses:gas
+
+2000/12/28 Piggly Wiggly
+    assets:checking                          $-54.04
+    expenses:groceries
+
+2000/12/29 Karts+
+    assets:checking                         $-114.46
+    expenses:fun
+
+2000/12/30 me
+    income                                  $-100.45
+    assets:checking
+
+2001/01/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2001/01/07 BP
+    assets:checking                          $-36.88
+    expenses:gas
+
+2001/01/08 Safeway
+    assets:checking                          $-57.05
+    expenses:groceries
+
+2001/01/14 Pilot
+    assets:checking                          $-41.77
+    expenses:gas
+
+2001/01/15 Harris Teeter
+    assets:checking                          $-60.66
+    expenses:groceries
+
+2001/01/20 Scoops Lounge
+    assets:checking                         $-104.23
+    expenses:fun
+
+2001/01/24 BP
+    assets:checking                          $-40.31
+    expenses:gas
+
+2001/01/26 Safeway
+    assets:checking                          $-61.54
+    expenses:groceries
+
+2001/01/27 me
+    income                                  $-100.49
+    assets:checking
+
+2001/02/01 Pilot
+    assets:checking                          $-40.22
+    expenses:gas
+
+2001/02/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2001/02/03 Safeway
+    assets:checking                          $-55.08
+    expenses:groceries
+
+2001/02/05 Karts+
+    assets:checking                         $-106.65
+    expenses:fun
+
+2001/02/13 BP
+    assets:checking                          $-37.32
+    expenses:gas
+
+2001/02/15 Piggly Wiggly
+    assets:checking                          $-52.22
+    expenses:groceries
+
+2001/02/24 me
+    income                                  $-100.53
+    assets:checking
+
+2001/02/24 Pilot
+    assets:checking                          $-45.06
+    expenses:gas
+
+2001/02/24 Movies 8
+    assets:checking                         $-125.26
+    expenses:fun
+
+2001/02/26 Safeway
+    assets:checking                          $-61.03
+    expenses:groceries
+
+2001/03/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2001/03/05 Harris Teeter
+    assets:checking                          $-62.75
+    expenses:groceries
+
+2001/03/07 Pilot
+    assets:checking                          $-40.25
+    expenses:gas
+
+2001/03/15 BP
+    assets:checking                          $-37.91
+    expenses:gas
+
+2001/03/16 Safeway
+    assets:checking                          $-59.34
+    expenses:groceries
+
+2001/03/19 Karts+
+    assets:checking                         $-127.54
+    expenses:fun
+
+2001/03/24 me
+    income                                  $-100.57
+    assets:checking
+
+2001/03/24 Harris Teeter
+    assets:checking                          $-57.02
+    expenses:groceries
+
+2001/03/26 BP
+    assets:checking                          $-43.01
+    expenses:gas
+
+2001/04/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2001/04/04 Pilot
+    assets:checking                          $-42.86
+    expenses:gas
+
+2001/04/05 Harris Teeter
+    assets:checking                          $-55.19
+    expenses:groceries
+
+2001/04/09 Scoops Lounge
+    assets:checking                         $-138.72
+    expenses:fun
+
+2001/04/13 Pilot
+    assets:checking                          $-39.41
+    expenses:gas
+
+2001/04/14 Harris Teeter
+    assets:checking                          $-63.27
+    expenses:groceries
+
+2001/04/21 me
+    income                                  $-100.61
+    assets:checking
+
+2001/04/21 Pilot
+    assets:checking                          $-37.46
+    expenses:gas
+
+2001/04/21 Piggly Wiggly
+    assets:checking                          $-54.33
+    expenses:groceries
+
+2001/04/28 Harris Teeter
+    assets:checking                          $-58.15
+    expenses:groceries
+
+2001/04/30 Movies 8
+    assets:checking                         $-118.79
+    expenses:fun
+
+2001/05/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2001/05/03 BP
+    assets:checking                          $-43.43
+    expenses:gas
+
+2001/05/07 Safeway
+    assets:checking                          $-57.33
+    expenses:groceries
+
+2001/05/11 Pilot
+    assets:checking                          $-40.91
+    expenses:gas
+
+2001/05/14 Movies 8
+    assets:checking                         $-145.95
+    expenses:fun
+
+2001/05/19 me
+    income                                  $-100.65
+    assets:checking
+
+2001/05/19 Harris Teeter
+    assets:checking                          $-58.88
+    expenses:groceries
+
+2001/05/21 BP
+    assets:checking                          $-41.20
+    expenses:gas
+
+2001/05/26 Piggly Wiggly
+    assets:checking                          $-53.89
+    expenses:groceries
+
+2001/05/28 Shell
+    assets:checking                          $-40.95
+    expenses:gas
+
+2001/06/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2001/06/02 Piggly Wiggly
+    assets:checking                          $-58.78
+    expenses:groceries
+
+2001/06/05 Shell
+    assets:checking                          $-39.07
+    expenses:gas
+
+2001/06/05 Karts+
+    assets:checking                         $-145.71
+    expenses:fun
+
+2001/06/12 Pilot
+    assets:checking                          $-43.43
+    expenses:gas
+
+2001/06/12 Safeway
+    assets:checking                          $-63.29
+    expenses:groceries
+
+2001/06/16 me
+    income                                  $-100.69
+    assets:checking
+
+2001/06/20 Shell
+    assets:checking                          $-44.44
+    expenses:gas
+
+2001/06/24 Piggly Wiggly
+    assets:checking                          $-61.17
+    expenses:groceries
+
+2001/06/28 Movies 8
+    assets:checking                         $-151.86
+    expenses:fun
+
+2001/07/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2001/07/02 BP
+    assets:checking                          $-46.02
+    expenses:gas
+
+2001/07/02 Piggly Wiggly
+    assets:checking                          $-56.88
+    expenses:groceries
+
+2001/07/09 Harris Teeter
+    assets:checking                          $-64.40
+    expenses:groceries
+
+2001/07/13 Shell
+    assets:checking                          $-44.39
+    expenses:gas
+
+2001/07/14 me
+    income                                  $-100.73
+    assets:checking
+
+2001/07/16 Movies 8
+    assets:checking                         $-146.00
+    expenses:fun
+
+2001/07/17 Safeway
+    assets:checking                          $-55.66
+    expenses:groceries
+
+2001/07/21 BP
+    assets:checking                          $-42.03
+    expenses:gas
+
+2001/07/28 Safeway
+    assets:checking                          $-56.50
+    expenses:groceries
+
+2001/08/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2001/08/02 Shell
+    assets:checking                          $-39.11
+    expenses:gas
+
+2001/08/05 Piggly Wiggly
+    assets:checking                          $-59.99
+    expenses:groceries
+
+2001/08/09 Karts+
+    assets:checking                         $-146.88
+    expenses:fun
+
+2001/08/11 me
+    income                                  $-100.77
+    assets:checking
+
+2001/08/12 Shell
+    assets:checking                          $-42.70
+    expenses:gas
+
+2001/08/17 Harris Teeter
+    assets:checking                          $-56.86
+    expenses:groceries
+
+2001/08/23 Pilot
+    assets:checking                          $-46.22
+    expenses:gas
+
+2001/08/24 Movies 8
+    assets:checking                         $-139.81
+    expenses:fun
+
+2001/08/28 Harris Teeter
+    assets:checking                          $-66.25
+    expenses:groceries
+
+2001/09/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2001/09/02 BP
+    assets:checking                          $-43.53
+    expenses:gas
+
+2001/09/04 Piggly Wiggly
+    assets:checking                          $-58.72
+    expenses:groceries
+
+2001/09/08 me
+    income                                  $-100.81
+    assets:checking
+
+2001/09/09 BP
+    assets:checking                          $-45.17
+    expenses:gas
+
+2001/09/14 Safeway
+    assets:checking                          $-59.91
+    expenses:groceries
+
+2001/09/14 Scoops Lounge
+    assets:checking                         $-145.93
+    expenses:fun
+
+2001/09/16 Pilot
+    assets:checking                          $-44.32
+    expenses:gas
+
+2001/09/21 Harris Teeter
+    assets:checking                          $-60.93
+    expenses:groceries
+
+2001/09/25 Pilot
+    assets:checking                          $-46.52
+    expenses:gas
+
+2001/10/01 Piggly Wiggly
+    assets:checking                          $-62.31
+    expenses:groceries
+
+2001/10/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2001/10/05 Shell
+    assets:checking                          $-42.14
+    expenses:gas
+
+2001/10/06 me
+    income                                  $-100.85
+    assets:checking
+
+2001/10/06 Movies 8
+    assets:checking                         $-167.03
+    expenses:fun
+
+2001/10/08 Harris Teeter
+    assets:checking                          $-57.44
+    expenses:groceries
+
+2001/10/12 Shell
+    assets:checking                          $-45.80
+    expenses:gas
+
+2001/10/19 BP
+    assets:checking                          $-42.89
+    expenses:gas
+
+2001/10/19 Harris Teeter
+    assets:checking                          $-64.07
+    expenses:groceries
+
+2001/10/25 Movies 8
+    assets:checking                         $-158.03
+    expenses:fun
+
+2001/10/27 Harris Teeter
+    assets:checking                          $-60.51
+    expenses:groceries
+
+2001/10/29 Pilot
+    assets:checking                          $-43.17
+    expenses:gas
+
+2001/11/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2001/11/03 me
+    income                                  $-100.89
+    assets:checking
+
+2001/11/05 Harris Teeter
+    assets:checking                          $-67.16
+    expenses:groceries
+
+2001/11/10 BP
+    assets:checking                          $-40.22
+    expenses:gas
+
+2001/11/13 Movies 8
+    assets:checking                         $-154.67
+    expenses:fun
+
+2001/11/15 Harris Teeter
+    assets:checking                          $-58.45
+    expenses:groceries
+
+2001/11/21 BP
+    assets:checking                          $-42.89
+    expenses:gas
+
+2001/11/27 Piggly Wiggly
+    assets:checking                          $-62.05
+    expenses:groceries
+
+2001/11/30 Pilot
+    assets:checking                          $-41.65
+    expenses:gas
+
+2001/12/01 me
+    income                                  $-100.92
+    assets:checking
+
+2001/12/01 Alpine Mgmt
+    assets:checking                         $-400.00
+    expenses:rent
+
+2001/12/07 Movies 8
+    assets:checking                         $-185.39
+    expenses:fun
+
+2001/12/09 Safeway
+    assets:checking                          $-65.24
+    expenses:groceries
+
+2001/12/12 Pilot
+    assets:checking                          $-43.55
+    expenses:gas
+
+2001/12/20 Pilot
+    assets:checking                          $-40.89
+    expenses:gas
+
+2001/12/20 Safeway
+    assets:checking                          $-63.61
+    expenses:groceries
+
+2001/12/28 Pilot
+    assets:checking                          $-40.25
+    expenses:gas
+
+2001/12/28 Karts+
+    assets:checking                         $-162.03
+    expenses:fun
+
+2001/12/29 me
+    income                                  $-100.96
+    assets:checking
+
+2002/01/01 Harris Teeter
+    assets:checking                          $-63.04
+    expenses:groceries
+
+2002/01/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2002/01/07 Pilot
+    assets:checking                          $-42.97
+    expenses:gas
+
+2002/01/09 Safeway
+    assets:checking                          $-61.34
+    expenses:groceries
+
+2002/01/15 Pilot
+    assets:checking                          $-43.11
+    expenses:gas
+
+2002/01/15 Karts+
+    assets:checking                         $-185.68
+    expenses:fun
+
+2002/01/20 Safeway
+    assets:checking                          $-62.07
+    expenses:groceries
+
+2002/01/23 Shell
+    assets:checking                          $-43.90
+    expenses:gas
+
+2002/01/26 me
+    income                                  $-101.00
+    assets:checking
+
+2002/01/31 Safeway
+    assets:checking                          $-68.37
+    expenses:groceries
+
+2002/01/31 Scoops Lounge
+    assets:checking                         $-191.07
+    expenses:fun
+
+2002/02/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2002/02/04 BP
+    assets:checking                          $-41.71
+    expenses:gas
+
+2002/02/08 Harris Teeter
+    assets:checking                          $-66.85
+    expenses:groceries
+
+2002/02/11 Shell
+    assets:checking                          $-41.83
+    expenses:gas
+
+2002/02/17 Harris Teeter
+    assets:checking                          $-57.99
+    expenses:groceries
+
+2002/02/19 Scoops Lounge
+    assets:checking                         $-199.88
+    expenses:fun
+
+2002/02/23 me
+    income                                  $-101.04
+    assets:checking
+
+2002/02/23 Pilot
+    assets:checking                          $-42.70
+    expenses:gas
+
+2002/02/24 Harris Teeter
+    assets:checking                          $-60.09
+    expenses:groceries
+
+2002/03/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2002/03/06 BP
+    assets:checking                          $-41.31
+    expenses:gas
+
+2002/03/07 Safeway
+    assets:checking                          $-67.36
+    expenses:groceries
+
+2002/03/14 Movies 8
+    assets:checking                         $-208.77
+    expenses:fun
+
+2002/03/16 Shell
+    assets:checking                          $-41.72
+    expenses:gas
+
+2002/03/16 Harris Teeter
+    assets:checking                          $-59.48
+    expenses:groceries
+
+2002/03/23 me
+    income                                  $-101.08
+    assets:checking
+
+2002/03/24 Shell
+    assets:checking                          $-46.35
+    expenses:gas
+
+2002/03/28 Piggly Wiggly
+    assets:checking                          $-65.44
+    expenses:groceries
+
+2002/03/31 Pilot
+    assets:checking                          $-43.42
+    expenses:gas
+
+2002/04/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2002/04/04 Movies 8
+    assets:checking                         $-189.75
+    expenses:fun
+
+2002/04/07 BP
+    assets:checking                          $-47.84
+    expenses:gas
+
+2002/04/08 Harris Teeter
+    assets:checking                          $-64.13
+    expenses:groceries
+
+2002/04/16 Pilot
+    assets:checking                          $-44.53
+    expenses:gas
+
+2002/04/20 me
+    income                                  $-101.12
+    assets:checking
+
+2002/04/20 Piggly Wiggly
+    assets:checking                          $-71.09
+    expenses:groceries
+
+2002/04/25 BP
+    assets:checking                          $-48.46
+    expenses:gas
+
+2002/04/28 Karts+
+    assets:checking                         $-209.78
+    expenses:fun
+
+2002/05/01 Harris Teeter
+    assets:checking                          $-67.23
+    expenses:groceries
+
+2002/05/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2002/05/07 Shell
+    assets:checking                          $-44.15
+    expenses:gas
+
+2002/05/11 Safeway
+    assets:checking                          $-64.65
+    expenses:groceries
+
+2002/05/14 Shell
+    assets:checking                          $-41.01
+    expenses:gas
+
+2002/05/14 Scoops Lounge
+    assets:checking                         $-219.08
+    expenses:fun
+
+2002/05/18 me
+    income                                  $-101.16
+    assets:checking
+
+2002/05/22 Safeway
+    assets:checking                          $-70.90
+    expenses:groceries
+
+2002/05/24 Pilot
+    assets:checking                          $-42.74
+    expenses:gas
+
+2002/05/30 Harris Teeter
+    assets:checking                          $-64.16
+    expenses:groceries
+
+2002/05/31 BP
+    assets:checking                          $-43.04
+    expenses:gas
+
+2002/06/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2002/06/03 Scoops Lounge
+    assets:checking                         $-207.51
+    expenses:fun
+
+2002/06/09 Shell
+    assets:checking                          $-48.60
+    expenses:gas
+
+2002/06/11 Harris Teeter
+    assets:checking                          $-65.40
+    expenses:groceries
+
+2002/06/15 me
+    income                                  $-101.20
+    assets:checking
+
+2002/06/18 Shell
+    assets:checking                          $-48.14
+    expenses:gas
+
+2002/06/19 Piggly Wiggly
+    assets:checking                          $-65.37
+    expenses:groceries
+
+2002/06/22 Scoops Lounge
+    assets:checking                         $-219.96
+    expenses:fun
+
+2002/06/25 BP
+    assets:checking                          $-48.15
+    expenses:gas
+
+2002/06/26 Piggly Wiggly
+    assets:checking                          $-62.67
+    expenses:groceries
+
+2002/07/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2002/07/04 Pilot
+    assets:checking                          $-40.90
+    expenses:gas
+
+2002/07/06 Scoops Lounge
+    assets:checking                         $-199.01
+    expenses:fun
+
+2002/07/07 Piggly Wiggly
+    assets:checking                          $-65.53
+    expenses:groceries
+
+2002/07/12 BP
+    assets:checking                          $-40.72
+    expenses:gas
+
+2002/07/13 me
+    income                                  $-101.24
+    assets:checking
+
+2002/07/15 Piggly Wiggly
+    assets:checking                          $-63.23
+    expenses:groceries
+
+2002/07/19 Pilot
+    assets:checking                          $-48.26
+    expenses:gas
+
+2002/07/23 Scoops Lounge
+    assets:checking                         $-234.07
+    expenses:fun
+
+2002/07/26 Harris Teeter
+    assets:checking                          $-63.76
+    expenses:groceries
+
+2002/07/29 Pilot
+    assets:checking                          $-48.19
+    expenses:gas
+
+2002/08/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2002/08/02 Piggly Wiggly
+    assets:checking                          $-71.91
+    expenses:groceries
+
+2002/08/09 Karts+
+    assets:checking                         $-231.35
+    expenses:fun
+
+2002/08/10 me
+    income                                  $-101.28
+    assets:checking
+
+2002/08/10 BP
+    assets:checking                          $-45.69
+    expenses:gas
+
+2002/08/14 Safeway
+    assets:checking                          $-73.75
+    expenses:groceries
+
+2002/08/17 Pilot
+    assets:checking                          $-42.29
+    expenses:gas
+
+2002/08/24 BP
+    assets:checking                          $-43.84
+    expenses:gas
+
+2002/08/25 Safeway
+    assets:checking                          $-72.27
+    expenses:groceries
+
+2002/08/31 Movies 8
+    assets:checking                         $-210.17
+    expenses:fun
+
+2002/09/01 BP
+    assets:checking                          $-49.97
+    expenses:gas
+
+2002/09/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2002/09/04 Safeway
+    assets:checking                          $-65.10
+    expenses:groceries
+
+2002/09/07 me
+    income                                  $-101.32
+    assets:checking
+
+2002/09/10 Pilot
+    assets:checking                          $-41.71
+    expenses:gas
+
+2002/09/15 Safeway
+    assets:checking                          $-66.97
+    expenses:groceries
+
+2002/09/19 BP
+    assets:checking                          $-49.09
+    expenses:gas
+
+2002/09/23 Movies 8
+    assets:checking                         $-205.23
+    expenses:fun
+
+2002/09/26 Pilot
+    assets:checking                          $-48.28
+    expenses:gas
+
+2002/09/26 Harris Teeter
+    assets:checking                          $-72.96
+    expenses:groceries
+
+2002/10/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2002/10/04 BP
+    assets:checking                          $-41.22
+    expenses:gas
+
+2002/10/05 me
+    income                                  $-101.36
+    assets:checking
+
+2002/10/07 Piggly Wiggly
+    assets:checking                          $-61.84
+    expenses:groceries
+
+2002/10/10 Karts+
+    assets:checking                         $-211.23
+    expenses:fun
+
+2002/10/14 Pilot
+    assets:checking                          $-41.52
+    expenses:gas
+
+2002/10/14 Safeway
+    assets:checking                          $-73.29
+    expenses:groceries
+
+2002/10/21 Safeway
+    assets:checking                          $-74.68
+    expenses:groceries
+
+2002/10/22 Pilot
+    assets:checking                          $-45.67
+    expenses:gas
+
+2002/10/26 Scoops Lounge
+    assets:checking                         $-249.91
+    expenses:fun
+
+2002/10/31 Piggly Wiggly
+    assets:checking                          $-70.26
+    expenses:groceries
+
+2002/11/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2002/11/02 me
+    income                                  $-101.40
+    assets:checking
+
+2002/11/03 Shell
+    assets:checking                          $-46.33
+    expenses:gas
+
+2002/11/08 Harris Teeter
+    assets:checking                          $-73.02
+    expenses:groceries
+
+2002/11/11 Karts+
+    assets:checking                         $-214.54
+    expenses:fun
+
+2002/11/14 Pilot
+    assets:checking                          $-43.62
+    expenses:gas
+
+2002/11/17 Harris Teeter
+    assets:checking                          $-68.99
+    expenses:groceries
+
+2002/11/25 Shell
+    assets:checking                          $-50.72
+    expenses:gas
+
+2002/11/26 Safeway
+    assets:checking                          $-67.68
+    expenses:groceries
+
+2002/11/30 me
+    income                                  $-101.44
+    assets:checking
+
+2002/11/30 Karts+
+    assets:checking                         $-254.54
+    expenses:fun
+
+2002/12/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2002/12/03 Shell
+    assets:checking                          $-43.50
+    expenses:gas
+
+2002/12/03 Harris Teeter
+    assets:checking                          $-63.53
+    expenses:groceries
+
+2002/12/12 Safeway
+    assets:checking                          $-66.29
+    expenses:groceries
+
+2002/12/13 Shell
+    assets:checking                          $-47.35
+    expenses:gas
+
+2002/12/23 Safeway
+    assets:checking                          $-65.77
+    expenses:groceries
+
+2002/12/24 Pilot
+    assets:checking                          $-46.40
+    expenses:gas
+
+2002/12/24 Movies 8
+    assets:checking                         $-239.90
+    expenses:fun
+
+2002/12/28 me
+    income                                  $-101.48
+    assets:checking
+
+2003/01/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2003/01/02 Piggly Wiggly
+    assets:checking                          $-72.66
+    expenses:groceries
+
+2003/01/04 BP
+    assets:checking                          $-44.24
+    expenses:gas
+
+2003/01/06 Scoops Lounge
+    assets:checking                         $-220.82
+    expenses:fun
+
+2003/01/10 Safeway
+    assets:checking                          $-63.99
+    expenses:groceries
+
+2003/01/14 Shell
+    assets:checking                          $-45.06
+    expenses:gas
+
+2003/01/19 Harris Teeter
+    assets:checking                          $-67.41
+    expenses:groceries
+
+2003/01/21 Movies 8
+    assets:checking                         $-231.74
+    expenses:fun
+
+2003/01/23 BP
+    assets:checking                          $-49.84
+    expenses:gas
+
+2003/01/25 me
+    income                                  $-101.51
+    assets:checking
+
+2003/01/26 Piggly Wiggly
+    assets:checking                          $-72.69
+    expenses:groceries
+
+2003/02/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2003/02/03 Safeway
+    assets:checking                          $-70.66
+    expenses:groceries
+
+2003/02/04 Shell
+    assets:checking                          $-45.16
+    expenses:gas
+
+2003/02/04 Movies 8
+    assets:checking                         $-260.52
+    expenses:fun
+
+2003/02/15 BP
+    assets:checking                          $-49.93
+    expenses:gas
+
+2003/02/15 Safeway
+    assets:checking                          $-72.44
+    expenses:groceries
+
+2003/02/22 me
+    income                                  $-101.55
+    assets:checking
+
+2003/02/25 Harris Teeter
+    assets:checking                          $-64.28
+    expenses:groceries
+
+2003/02/26 Pilot
+    assets:checking                          $-51.71
+    expenses:gas
+
+2003/02/27 Scoops Lounge
+    assets:checking                         $-261.08
+    expenses:fun
+
+2003/03/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2003/03/05 BP
+    assets:checking                          $-43.18
+    expenses:gas
+
+2003/03/08 Harris Teeter
+    assets:checking                          $-74.65
+    expenses:groceries
+
+2003/03/13 BP
+    assets:checking                          $-46.99
+    expenses:gas
+
+2003/03/19 Piggly Wiggly
+    assets:checking                          $-68.34
+    expenses:groceries
+
+2003/03/22 me
+    income                                  $-101.59
+    assets:checking
+
+2003/03/22 Karts+
+    assets:checking                         $-264.12
+    expenses:fun
+
+2003/03/23 BP
+    assets:checking                          $-47.16
+    expenses:gas
+
+2003/03/31 BP
+    assets:checking                          $-47.22
+    expenses:gas
+
+2003/03/31 Harris Teeter
+    assets:checking                          $-64.12
+    expenses:groceries
+
+2003/04/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2003/04/08 Shell
+    assets:checking                          $-45.54
+    expenses:gas
+
+2003/04/08 Karts+
+    assets:checking                         $-255.25
+    expenses:fun
+
+2003/04/09 Safeway
+    assets:checking                          $-76.83
+    expenses:groceries
+
+2003/04/19 me
+    income                                  $-101.63
+    assets:checking
+
+2003/04/20 BP
+    assets:checking                          $-51.48
+    expenses:gas
+
+2003/04/21 Harris Teeter
+    assets:checking                          $-75.68
+    expenses:groceries
+
+2003/05/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2003/05/02 Pilot
+    assets:checking                          $-50.89
+    expenses:gas
+
+2003/05/02 Safeway
+    assets:checking                          $-74.23
+    expenses:groceries
+
+2003/05/02 Scoops Lounge
+    assets:checking                         $-269.09
+    expenses:fun
+
+2003/05/12 BP
+    assets:checking                          $-45.07
+    expenses:gas
+
+2003/05/13 Safeway
+    assets:checking                          $-69.20
+    expenses:groceries
+
+2003/05/17 me
+    income                                  $-101.67
+    assets:checking
+
+2003/05/22 Shell
+    assets:checking                          $-49.67
+    expenses:gas
+
+2003/05/23 Harris Teeter
+    assets:checking                          $-77.62
+    expenses:groceries
+
+2003/05/23 Karts+
+    assets:checking                         $-259.31
+    expenses:fun
+
+2003/05/29 BP
+    assets:checking                          $-46.30
+    expenses:gas
+
+2003/06/01 Harris Teeter
+    assets:checking                          $-76.72
+    expenses:groceries
+
+2003/06/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2003/06/08 BP
+    assets:checking                          $-47.83
+    expenses:gas
+
+2003/06/09 Piggly Wiggly
+    assets:checking                          $-67.21
+    expenses:groceries
+
+2003/06/09 Karts+
+    assets:checking                         $-265.66
+    expenses:fun
+
+2003/06/14 me
+    income                                  $-101.71
+    assets:checking
+
+2003/06/18 Harris Teeter
+    assets:checking                          $-75.13
+    expenses:groceries
+
+2003/06/19 Pilot
+    assets:checking                          $-51.66
+    expenses:gas
+
+2003/06/24 Karts+
+    assets:checking                         $-256.37
+    expenses:fun
+
+2003/06/26 Shell
+    assets:checking                          $-50.78
+    expenses:gas
+
+2003/06/28 Harris Teeter
+    assets:checking                          $-68.65
+    expenses:groceries
+
+2003/07/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2003/07/05 Harris Teeter
+    assets:checking                          $-65.84
+    expenses:groceries
+
+2003/07/07 Pilot
+    assets:checking                          $-45.09
+    expenses:gas
+
+2003/07/07 Karts+
+    assets:checking                         $-264.31
+    expenses:fun
+
+2003/07/12 me
+    income                                  $-101.75
+    assets:checking
+
+2003/07/14 BP
+    assets:checking                          $-50.26
+    expenses:gas
+
+2003/07/14 Harris Teeter
+    assets:checking                          $-77.84
+    expenses:groceries
+
+2003/07/22 Pilot
+    assets:checking                          $-51.26
+    expenses:gas
+
+2003/07/24 Harris Teeter
+    assets:checking                          $-71.22
+    expenses:groceries
+
+2003/07/30 Shell
+    assets:checking                          $-51.25
+    expenses:gas
+
+2003/07/31 Movies 8
+    assets:checking                         $-294.53
+    expenses:fun
+
+2003/08/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2003/08/05 Piggly Wiggly
+    assets:checking                          $-69.15
+    expenses:groceries
+
+2003/08/07 BP
+    assets:checking                          $-51.73
+    expenses:gas
+
+2003/08/09 me
+    income                                  $-101.79
+    assets:checking
+
+2003/08/13 Safeway
+    assets:checking                          $-72.64
+    expenses:groceries
+
+2003/08/14 Pilot
+    assets:checking                          $-47.09
+    expenses:gas
+
+2003/08/21 Shell
+    assets:checking                          $-53.00
+    expenses:gas
+
+2003/08/23 Scoops Lounge
+    assets:checking                         $-260.18
+    expenses:fun
+
+2003/08/25 Harris Teeter
+    assets:checking                          $-69.94
+    expenses:groceries
+
+2003/09/01 Pilot
+    assets:checking                          $-46.07
+    expenses:gas
+
+2003/09/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2003/09/06 me
+    income                                  $-101.83
+    assets:checking
+
+2003/09/06 Piggly Wiggly
+    assets:checking                          $-72.83
+    expenses:groceries
+
+2003/09/09 BP
+    assets:checking                          $-45.24
+    expenses:gas
+
+2003/09/13 Scoops Lounge
+    assets:checking                         $-256.75
+    expenses:fun
+
+2003/09/16 Harris Teeter
+    assets:checking                          $-74.16
+    expenses:groceries
+
+2003/09/19 Shell
+    assets:checking                          $-52.42
+    expenses:gas
+
+2003/09/27 Harris Teeter
+    assets:checking                          $-67.23
+    expenses:groceries
+
+2003/09/30 BP
+    assets:checking                          $-46.57
+    expenses:gas
+
+2003/09/30 Karts+
+    assets:checking                         $-301.25
+    expenses:fun
+
+2003/10/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2003/10/04 me
+    income                                  $-101.87
+    assets:checking
+
+2003/10/06 Piggly Wiggly
+    assets:checking                          $-73.95
+    expenses:groceries
+
+2003/10/08 Shell
+    assets:checking                          $-53.76
+    expenses:gas
+
+2003/10/14 Movies 8
+    assets:checking                         $-303.98
+    expenses:fun
+
+2003/10/16 BP
+    assets:checking                          $-53.45
+    expenses:gas
+
+2003/10/17 Harris Teeter
+    assets:checking                          $-66.94
+    expenses:groceries
+
+2003/10/23 Pilot
+    assets:checking                          $-45.56
+    expenses:gas
+
+2003/10/24 Harris Teeter
+    assets:checking                          $-67.13
+    expenses:groceries
+
+2003/10/28 Karts+
+    assets:checking                         $-290.93
+    expenses:fun
+
+2003/11/01 me
+    income                                  $-101.91
+    assets:checking
+
+2003/11/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2003/11/03 BP
+    assets:checking                          $-51.20
+    expenses:gas
+
+2003/11/05 Harris Teeter
+    assets:checking                          $-73.68
+    expenses:groceries
+
+2003/11/12 Shell
+    assets:checking                          $-47.93
+    expenses:gas
+
+2003/11/13 Harris Teeter
+    assets:checking                          $-71.97
+    expenses:groceries
+
+2003/11/19 Scoops Lounge
+    assets:checking                         $-284.82
+    expenses:fun
+
+2003/11/21 Harris Teeter
+    assets:checking                          $-77.61
+    expenses:groceries
+
+2003/11/22 Pilot
+    assets:checking                          $-51.65
+    expenses:gas
+
+2003/11/29 me
+    income                                  $-101.95
+    assets:checking
+
+2003/11/29 BP
+    assets:checking                          $-49.35
+    expenses:gas
+
+2003/11/29 Safeway
+    assets:checking                          $-81.09
+    expenses:groceries
+
+2003/12/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2003/12/02 Karts+
+    assets:checking                         $-321.92
+    expenses:fun
+
+2003/12/07 Pilot
+    assets:checking                          $-55.23
+    expenses:gas
+
+2003/12/10 Safeway
+    assets:checking                          $-70.66
+    expenses:groceries
+
+2003/12/17 BP
+    assets:checking                          $-51.26
+    expenses:gas
+
+2003/12/19 Movies 8
+    assets:checking                         $-268.64
+    expenses:fun
+
+2003/12/20 Harris Teeter
+    assets:checking                          $-70.34
+    expenses:groceries
+
+2003/12/25 BP
+    assets:checking                          $-49.40
+    expenses:gas
+
+2003/12/27 me
+    income                                  $-101.99
+    assets:checking
+
+2003/12/28 Piggly Wiggly
+    assets:checking                          $-72.43
+    expenses:groceries
+
+2004/01/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2004/01/06 BP
+    assets:checking                          $-53.38
+    expenses:gas
+
+2004/01/07 Safeway
+    assets:checking                          $-75.44
+    expenses:groceries
+
+2004/01/12 Movies 8
+    assets:checking                         $-316.08
+    expenses:fun
+
+2004/01/14 Shell
+    assets:checking                          $-51.73
+    expenses:gas
+
+2004/01/17 Safeway
+    assets:checking                          $-81.47
+    expenses:groceries
+
+2004/01/24 me
+    income                                  $-102.03
+    assets:checking
+
+2004/01/26 BP
+    assets:checking                          $-54.06
+    expenses:gas
+
+2004/01/27 Karts+
+    assets:checking                         $-304.70
+    expenses:fun
+
+2004/01/28 Safeway
+    assets:checking                          $-70.26
+    expenses:groceries
+
+2004/02/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2004/02/03 BP
+    assets:checking                          $-47.78
+    expenses:gas
+
+2004/02/07 Safeway
+    assets:checking                          $-79.52
+    expenses:groceries
+
+2004/02/11 Karts+
+    assets:checking                         $-317.28
+    expenses:fun
+
+2004/02/15 BP
+    assets:checking                          $-50.42
+    expenses:gas
+
+2004/02/17 Piggly Wiggly
+    assets:checking                          $-69.43
+    expenses:groceries
+
+2004/02/21 me
+    income                                  $-102.07
+    assets:checking
+
+2004/02/24 Scoops Lounge
+    assets:checking                         $-331.93
+    expenses:fun
+
+2004/02/26 Piggly Wiggly
+    assets:checking                          $-72.27
+    expenses:groceries
+
+2004/02/27 Pilot
+    assets:checking                          $-51.67
+    expenses:gas
+
+2004/03/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2004/03/06 Shell
+    assets:checking                          $-46.22
+    expenses:gas
+
+2004/03/06 Safeway
+    assets:checking                          $-78.85
+    expenses:groceries
+
+2004/03/14 Shell
+    assets:checking                          $-47.66
+    expenses:gas
+
+2004/03/15 Scoops Lounge
+    assets:checking                         $-305.32
+    expenses:fun
+
+2004/03/17 Harris Teeter
+    assets:checking                          $-79.13
+    expenses:groceries
+
+2004/03/20 me
+    income                                  $-102.11
+    assets:checking
+
+2004/03/24 Piggly Wiggly
+    assets:checking                          $-80.33
+    expenses:groceries
+
+2004/03/25 Shell
+    assets:checking                          $-52.11
+    expenses:gas
+
+2004/04/01 BP
+    assets:checking                          $-53.64
+    expenses:gas
+
+2004/04/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2004/04/02 Harris Teeter
+    assets:checking                          $-79.00
+    expenses:groceries
+
+2004/04/07 Movies 8
+    assets:checking                         $-342.24
+    expenses:fun
+
+2004/04/11 Pilot
+    assets:checking                          $-56.62
+    expenses:gas
+
+2004/04/13 Safeway
+    assets:checking                          $-80.49
+    expenses:groceries
+
+2004/04/17 me
+    income                                  $-102.14
+    assets:checking
+
+2004/04/19 Shell
+    assets:checking                          $-47.56
+    expenses:gas
+
+2004/04/21 Safeway
+    assets:checking                          $-70.07
+    expenses:groceries
+
+2004/04/24 Scoops Lounge
+    assets:checking                         $-312.88
+    expenses:fun
+
+2004/04/27 Shell
+    assets:checking                          $-48.43
+    expenses:gas
+
+2004/04/28 Harris Teeter
+    assets:checking                          $-69.35
+    expenses:groceries
+
+2004/05/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2004/05/05 BP
+    assets:checking                          $-50.23
+    expenses:gas
+
+2004/05/05 Safeway
+    assets:checking                          $-79.29
+    expenses:groceries
+
+2004/05/07 Movies 8
+    assets:checking                         $-326.18
+    expenses:fun
+
+2004/05/12 BP
+    assets:checking                          $-53.34
+    expenses:gas
+
+2004/05/12 Piggly Wiggly
+    assets:checking                          $-75.15
+    expenses:groceries
+
+2004/05/15 me
+    income                                  $-102.18
+    assets:checking
+
+2004/05/19 BP
+    assets:checking                          $-57.17
+    expenses:gas
+
+2004/05/19 Harris Teeter
+    assets:checking                          $-78.93
+    expenses:groceries
+
+2004/05/26 BP
+    assets:checking                          $-48.32
+    expenses:gas
+
+2004/05/30 Scoops Lounge
+    assets:checking                         $-302.71
+    expenses:fun
+
+2004/05/31 Safeway
+    assets:checking                          $-82.08
+    expenses:groceries
+
+2004/06/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2004/06/06 BP
+    assets:checking                          $-54.90
+    expenses:gas
+
+2004/06/11 Piggly Wiggly
+    assets:checking                          $-72.72
+    expenses:groceries
+
+2004/06/12 me
+    income                                  $-102.22
+    assets:checking
+
+2004/06/18 Shell
+    assets:checking                          $-49.38
+    expenses:gas
+
+2004/06/18 Harris Teeter
+    assets:checking                          $-79.24
+    expenses:groceries
+
+2004/06/19 Movies 8
+    assets:checking                         $-341.53
+    expenses:fun
+
+2004/06/25 Harris Teeter
+    assets:checking                          $-84.93
+    expenses:groceries
+
+2004/06/30 BP
+    assets:checking                          $-54.35
+    expenses:gas
+
+2004/07/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2004/07/06 Harris Teeter
+    assets:checking                          $-74.83
+    expenses:groceries
+
+2004/07/06 Movies 8
+    assets:checking                         $-316.33
+    expenses:fun
+
+2004/07/10 me
+    income                                  $-102.26
+    assets:checking
+
+2004/07/12 BP
+    assets:checking                          $-52.08
+    expenses:gas
+
+2004/07/13 Safeway
+    assets:checking                          $-72.11
+    expenses:groceries
+
+2004/07/24 Shell
+    assets:checking                          $-58.10
+    expenses:gas
+
+2004/07/24 Safeway
+    assets:checking                          $-79.26
+    expenses:groceries
+
+2004/07/30 Karts+
+    assets:checking                         $-350.02
+    expenses:fun
+
+2004/08/01 Shell
+    assets:checking                          $-54.00
+    expenses:gas
+
+2004/08/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2004/08/04 Piggly Wiggly
+    assets:checking                          $-74.95
+    expenses:groceries
+
+2004/08/07 me
+    income                                  $-102.30
+    assets:checking
+
+2004/08/11 BP
+    assets:checking                          $-55.97
+    expenses:gas
+
+2004/08/16 Piggly Wiggly
+    assets:checking                          $-72.89
+    expenses:groceries
+
+2004/08/19 Movies 8
+    assets:checking                         $-304.72
+    expenses:fun
+
+2004/08/21 Shell
+    assets:checking                          $-50.80
+    expenses:gas
+
+2004/08/25 Safeway
+    assets:checking                          $-78.51
+    expenses:groceries
+
+2004/08/30 BP
+    assets:checking                          $-49.53
+    expenses:gas
+
+2004/09/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2004/09/04 me
+    income                                  $-102.34
+    assets:checking
+
+2004/09/05 Safeway
+    assets:checking                          $-81.05
+    expenses:groceries
+
+2004/09/07 Scoops Lounge
+    assets:checking                         $-343.61
+    expenses:fun
+
+2004/09/08 Pilot
+    assets:checking                          $-55.32
+    expenses:gas
+
+2004/09/17 Harris Teeter
+    assets:checking                          $-73.30
+    expenses:groceries
+
+2004/09/19 Pilot
+    assets:checking                          $-57.38
+    expenses:gas
+
+2004/09/20 Movies 8
+    assets:checking                         $-333.53
+    expenses:fun
+
+2004/09/24 Piggly Wiggly
+    assets:checking                          $-80.44
+    expenses:groceries
+
+2004/09/30 Shell
+    assets:checking                          $-54.72
+    expenses:gas
+
+2004/10/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2004/10/02 me
+    income                                  $-102.38
+    assets:checking
+
+2004/10/02 Harris Teeter
+    assets:checking                          $-72.78
+    expenses:groceries
+
+2004/10/09 Movies 8
+    assets:checking                         $-354.13
+    expenses:fun
+
+2004/10/10 Pilot
+    assets:checking                          $-52.21
+    expenses:gas
+
+2004/10/12 Safeway
+    assets:checking                          $-77.99
+    expenses:groceries
+
+2004/10/18 Pilot
+    assets:checking                          $-58.37
+    expenses:gas
+
+2004/10/23 Piggly Wiggly
+    assets:checking                          $-85.86
+    expenses:groceries
+
+2004/10/24 Movies 8
+    assets:checking                         $-315.37
+    expenses:fun
+
+2004/10/28 BP
+    assets:checking                          $-55.89
+    expenses:gas
+
+2004/10/30 me
+    income                                  $-102.42
+    assets:checking
+
+2004/11/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2004/11/02 Harris Teeter
+    assets:checking                          $-81.00
+    expenses:groceries
+
+2004/11/04 Shell
+    assets:checking                          $-55.07
+    expenses:gas
+
+2004/11/07 Movies 8
+    assets:checking                         $-332.41
+    expenses:fun
+
+2004/11/11 Shell
+    assets:checking                          $-56.35
+    expenses:gas
+
+2004/11/11 Piggly Wiggly
+    assets:checking                          $-82.82
+    expenses:groceries
+
+2004/11/23 Shell
+    assets:checking                          $-55.73
+    expenses:gas
+
+2004/11/23 Harris Teeter
+    assets:checking                          $-71.76
+    expenses:groceries
+
+2004/11/27 me
+    income                                  $-102.46
+    assets:checking
+
+2004/11/29 Movies 8
+    assets:checking                         $-324.47
+    expenses:fun
+
+2004/12/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2004/12/02 Piggly Wiggly
+    assets:checking                          $-72.03
+    expenses:groceries
+
+2004/12/03 BP
+    assets:checking                          $-59.20
+    expenses:gas
+
+2004/12/09 Safeway
+    assets:checking                          $-80.63
+    expenses:groceries
+
+2004/12/12 Pilot
+    assets:checking                          $-58.75
+    expenses:gas
+
+2004/12/14 Karts+
+    assets:checking                         $-374.17
+    expenses:fun
+
+2004/12/18 Harris Teeter
+    assets:checking                          $-83.32
+    expenses:groceries
+
+2004/12/19 BP
+    assets:checking                          $-57.81
+    expenses:gas
+
+2004/12/25 me
+    income                                  $-102.50
+    assets:checking
+
+2004/12/30 Harris Teeter
+    assets:checking                          $-85.24
+    expenses:groceries
+
+2004/12/31 Shell
+    assets:checking                          $-57.13
+    expenses:gas
+
+2005/01/01 Alpine Mgmt
+    assets:checking                         $-500.00
+    expenses:rent
+
+2005/01/03 Movies 8
+    assets:checking                         $-330.30
+    expenses:fun
+
+2005/01/06 Safeway
+    assets:checking                          $-72.38
+    expenses:groceries
+
+2005/01/09 Pilot
+    assets:checking                          $-55.90
+    expenses:gas
+
+2005/01/15 Piggly Wiggly
+    assets:checking                          $-75.94
+    expenses:groceries
+
+2005/01/17 Pilot
+    assets:checking                          $-54.39
+    expenses:gas
+
+2005/01/22 me
+    income                                  $-102.54
+    assets:checking
+
+2005/01/24 Piggly Wiggly
+    assets:checking                          $-85.99
+    expenses:groceries
+
+2005/01/25 Karts+
+    assets:checking                         $-336.09
+    expenses:fun
+
+2005/01/28 Pilot
+    assets:checking                          $-58.48
+    expenses:gas
+
+2005/02/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2005/02/04 Pilot
+    assets:checking                          $-56.66
+    expenses:gas
+
+2005/02/04 Piggly Wiggly
+    assets:checking                          $-78.36
+    expenses:groceries
+
+2005/02/10 Scoops Lounge
+    assets:checking                         $-368.47
+    expenses:fun
+
+2005/02/11 Shell
+    assets:checking                          $-56.63
+    expenses:gas
+
+2005/02/12 Piggly Wiggly
+    assets:checking                          $-77.52
+    expenses:groceries
+
+2005/02/19 me
+    income                                  $-102.58
+    assets:checking
+
+2005/02/22 BP
+    assets:checking                          $-58.71
+    expenses:gas
+
+2005/02/22 Piggly Wiggly
+    assets:checking                          $-78.90
+    expenses:groceries
+
+2005/03/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2005/03/04 BP
+    assets:checking                          $-60.93
+    expenses:gas
+
+2005/03/04 Movies 8
+    assets:checking                         $-364.66
+    expenses:fun
+
+2005/03/06 Safeway
+    assets:checking                          $-84.87
+    expenses:groceries
+
+2005/03/13 Shell
+    assets:checking                          $-58.33
+    expenses:gas
+
+2005/03/18 Piggly Wiggly
+    assets:checking                          $-84.65
+    expenses:groceries
+
+2005/03/19 me
+    income                                  $-102.62
+    assets:checking
+
+2005/03/22 BP
+    assets:checking                          $-55.87
+    expenses:gas
+
+2005/03/25 Safeway
+    assets:checking                          $-84.39
+    expenses:groceries
+
+2005/03/28 Movies 8
+    assets:checking                         $-343.59
+    expenses:fun
+
+2005/03/31 Pilot
+    assets:checking                          $-51.92
+    expenses:gas
+
+2005/04/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2005/04/04 Safeway
+    assets:checking                          $-84.20
+    expenses:groceries
+
+2005/04/08 Shell
+    assets:checking                          $-51.28
+    expenses:gas
+
+2005/04/14 Scoops Lounge
+    assets:checking                         $-372.24
+    expenses:fun
+
+2005/04/15 Harris Teeter
+    assets:checking                          $-89.11
+    expenses:groceries
+
+2005/04/16 me
+    income                                  $-102.66
+    assets:checking
+
+2005/04/18 Pilot
+    assets:checking                          $-59.54
+    expenses:gas
+
+2005/04/24 Piggly Wiggly
+    assets:checking                          $-84.31
+    expenses:groceries
+
+2005/04/25 Shell
+    assets:checking                          $-60.81
+    expenses:gas
+
+2005/04/28 Movies 8
+    assets:checking                         $-391.12
+    expenses:fun
+
+2005/05/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2005/05/02 Harris Teeter
+    assets:checking                          $-85.70
+    expenses:groceries
+
+2005/05/07 Pilot
+    assets:checking                          $-56.72
+    expenses:gas
+
+2005/05/12 Karts+
+    assets:checking                         $-371.86
+    expenses:fun
+
+2005/05/13 Safeway
+    assets:checking                          $-75.27
+    expenses:groceries
+
+2005/05/14 me
+    income                                  $-102.70
+    assets:checking
+
+2005/05/19 Shell
+    assets:checking                          $-53.44
+    expenses:gas
+
+2005/05/20 Piggly Wiggly
+    assets:checking                          $-83.70
+    expenses:groceries
+
+2005/05/29 Pilot
+    assets:checking                          $-60.97
+    expenses:gas
+
+2005/05/30 Safeway
+    assets:checking                          $-80.61
+    expenses:groceries
+
+2005/05/31 Movies 8
+    assets:checking                         $-340.96
+    expenses:fun
+
+2005/06/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2005/06/07 Shell
+    assets:checking                          $-53.42
+    expenses:gas
+
+2005/06/08 Safeway
+    assets:checking                          $-84.23
+    expenses:groceries
+
+2005/06/11 me
+    income                                  $-102.74
+    assets:checking
+
+2005/06/18 Movies 8
+    assets:checking                         $-354.19
+    expenses:fun
+
+2005/06/19 BP
+    assets:checking                          $-58.35
+    expenses:gas
+
+2005/06/19 Safeway
+    assets:checking                          $-79.16
+    expenses:groceries
+
+2005/07/01 Pilot
+    assets:checking                          $-57.35
+    expenses:gas
+
+2005/07/01 Harris Teeter
+    assets:checking                          $-75.76
+    expenses:groceries
+
+2005/07/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2005/07/09 me
+    income                                  $-102.79
+    assets:checking
+
+2005/07/11 Scoops Lounge
+    assets:checking                         $-362.86
+    expenses:fun
+
+2005/07/12 BP
+    assets:checking                          $-58.70
+    expenses:gas
+
+2005/07/12 Safeway
+    assets:checking                          $-76.75
+    expenses:groceries
+
+2005/07/21 Pilot
+    assets:checking                          $-60.79
+    expenses:gas
+
+2005/07/21 Safeway
+    assets:checking                          $-78.31
+    expenses:groceries
+
+2005/07/27 Scoops Lounge
+    assets:checking                         $-340.75
+    expenses:fun
+
+2005/07/28 Harris Teeter
+    assets:checking                          $-77.30
+    expenses:groceries
+
+2005/08/01 Pilot
+    assets:checking                          $-55.87
+    expenses:gas
+
+2005/08/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2005/08/06 me
+    income                                  $-102.83
+    assets:checking
+
+2005/08/09 Harris Teeter
+    assets:checking                          $-83.72
+    expenses:groceries
+
+2005/08/10 Shell
+    assets:checking                          $-63.04
+    expenses:gas
+
+2005/08/13 Karts+
+    assets:checking                         $-338.59
+    expenses:fun
+
+2005/08/18 Piggly Wiggly
+    assets:checking                          $-78.36
+    expenses:groceries
+
+2005/08/22 Pilot
+    assets:checking                          $-58.09
+    expenses:gas
+
+2005/08/29 Safeway
+    assets:checking                          $-78.64
+    expenses:groceries
+
+2005/09/01 Shell
+    assets:checking                          $-59.89
+    expenses:gas
+
+2005/09/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2005/09/03 me
+    income                                  $-102.87
+    assets:checking
+
+2005/09/06 Karts+
+    assets:checking                         $-358.40
+    expenses:fun
+
+2005/09/07 Piggly Wiggly
+    assets:checking                          $-81.26
+    expenses:groceries
+
+2005/09/11 Pilot
+    assets:checking                          $-62.61
+    expenses:gas
+
+2005/09/14 Harris Teeter
+    assets:checking                          $-89.04
+    expenses:groceries
+
+2005/09/20 BP
+    assets:checking                          $-60.74
+    expenses:gas
+
+2005/09/21 Piggly Wiggly
+    assets:checking                          $-87.22
+    expenses:groceries
+
+2005/09/23 Movies 8
+    assets:checking                         $-406.14
+    expenses:fun
+
+2005/09/27 Pilot
+    assets:checking                          $-63.30
+    expenses:gas
+
+2005/10/01 me
+    income                                  $-102.91
+    assets:checking
+
+2005/10/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2005/10/02 Harris Teeter
+    assets:checking                          $-87.05
+    expenses:groceries
+
+2005/10/06 Shell
+    assets:checking                          $-63.80
+    expenses:gas
+
+2005/10/09 Movies 8
+    assets:checking                         $-407.06
+    expenses:fun
+
+2005/10/11 Piggly Wiggly
+    assets:checking                          $-84.84
+    expenses:groceries
+
+2005/10/18 BP
+    assets:checking                          $-58.48
+    expenses:gas
+
+2005/10/19 Piggly Wiggly
+    assets:checking                          $-82.14
+    expenses:groceries
+
+2005/10/25 Pilot
+    assets:checking                          $-55.34
+    expenses:gas
+
+2005/10/29 me
+    income                                  $-102.95
+    assets:checking
+
+2005/10/29 Piggly Wiggly
+    assets:checking                          $-81.19
+    expenses:groceries
+
+2005/10/29 Karts+
+    assets:checking                         $-353.60
+    expenses:fun
+
+2005/11/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2005/11/03 BP
+    assets:checking                          $-63.71
+    expenses:gas
+
+2005/11/05 Piggly Wiggly
+    assets:checking                          $-86.78
+    expenses:groceries
+
+2005/11/13 Scoops Lounge
+    assets:checking                         $-390.95
+    expenses:fun
+
+2005/11/14 Piggly Wiggly
+    assets:checking                          $-76.95
+    expenses:groceries
+
+2005/11/15 Shell
+    assets:checking                          $-58.82
+    expenses:gas
+
+2005/11/24 BP
+    assets:checking                          $-56.90
+    expenses:gas
+
+2005/11/26 me
+    income                                  $-102.99
+    assets:checking
+
+2005/11/26 Safeway
+    assets:checking                          $-90.75
+    expenses:groceries
+
+2005/11/26 Karts+
+    assets:checking                         $-362.64
+    expenses:fun
+
+2005/12/01 Pilot
+    assets:checking                          $-62.38
+    expenses:gas
+
+2005/12/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2005/12/08 Pilot
+    assets:checking                          $-56.78
+    expenses:gas
+
+2005/12/08 Safeway
+    assets:checking                          $-76.78
+    expenses:groceries
+
+2005/12/14 Karts+
+    assets:checking                         $-387.51
+    expenses:fun
+
+2005/12/16 Safeway
+    assets:checking                          $-88.08
+    expenses:groceries
+
+2005/12/17 BP
+    assets:checking                          $-55.50
+    expenses:gas
+
+2005/12/24 me
+    income                                  $-103.03
+    assets:checking
+
+2005/12/27 Piggly Wiggly
+    assets:checking                          $-77.43
+    expenses:groceries
+
+2005/12/28 Pilot
+    assets:checking                          $-57.64
+    expenses:gas
+
+2006/01/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2006/01/07 Harris Teeter
+    assets:checking                          $-86.86
+    expenses:groceries
+
+2006/01/07 Karts+
+    assets:checking                         $-415.99
+    expenses:fun
+
+2006/01/09 Shell
+    assets:checking                          $-63.39
+    expenses:gas
+
+2006/01/19 Pilot
+    assets:checking                          $-58.41
+    expenses:gas
+
+2006/01/19 Piggly Wiggly
+    assets:checking                          $-78.93
+    expenses:groceries
+
+2006/01/21 me
+    income                                  $-103.07
+    assets:checking
+
+2006/01/26 Shell
+    assets:checking                          $-63.06
+    expenses:gas
+
+2006/01/29 Harris Teeter
+    assets:checking                          $-89.43
+    expenses:groceries
+
+2006/01/31 Scoops Lounge
+    assets:checking                         $-388.46
+    expenses:fun
+
+2006/02/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2006/02/02 BP
+    assets:checking                          $-57.35
+    expenses:gas
+
+2006/02/05 Safeway
+    assets:checking                          $-84.90
+    expenses:groceries
+
+2006/02/10 Shell
+    assets:checking                          $-64.56
+    expenses:gas
+
+2006/02/14 Piggly Wiggly
+    assets:checking                          $-93.19
+    expenses:groceries
+
+2006/02/18 me
+    income                                  $-103.11
+    assets:checking
+
+2006/02/19 Karts+
+    assets:checking                         $-409.52
+    expenses:fun
+
+2006/02/22 Shell
+    assets:checking                          $-61.17
+    expenses:gas
+
+2006/02/24 Harris Teeter
+    assets:checking                          $-86.74
+    expenses:groceries
+
+2006/03/01 Shell
+    assets:checking                          $-54.60
+    expenses:gas
+
+2006/03/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2006/03/04 Harris Teeter
+    assets:checking                          $-82.42
+    expenses:groceries
+
+2006/03/06 Movies 8
+    assets:checking                         $-406.45
+    expenses:fun
+
+2006/03/12 Safeway
+    assets:checking                          $-78.36
+    expenses:groceries
+
+2006/03/13 Pilot
+    assets:checking                          $-57.85
+    expenses:gas
+
+2006/03/18 me
+    income                                  $-103.15
+    assets:checking
+
+2006/03/22 Harris Teeter
+    assets:checking                          $-82.49
+    expenses:groceries
+
+2006/03/25 Pilot
+    assets:checking                          $-59.46
+    expenses:gas
+
+2006/03/27 Movies 8
+    assets:checking                         $-417.13
+    expenses:fun
+
+2006/03/30 Piggly Wiggly
+    assets:checking                          $-86.14
+    expenses:groceries
+
+2006/04/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2006/04/06 BP
+    assets:checking                          $-55.08
+    expenses:gas
+
+2006/04/08 Piggly Wiggly
+    assets:checking                          $-88.58
+    expenses:groceries
+
+2006/04/12 Movies 8
+    assets:checking                         $-422.99
+    expenses:fun
+
+2006/04/15 me
+    income                                  $-103.19
+    assets:checking
+
+2006/04/15 Pilot
+    assets:checking                          $-56.30
+    expenses:gas
+
+2006/04/20 Safeway
+    assets:checking                          $-88.25
+    expenses:groceries
+
+2006/04/24 Pilot
+    assets:checking                          $-59.33
+    expenses:gas
+
+2006/04/27 Karts+
+    assets:checking                         $-369.15
+    expenses:fun
+
+2006/05/01 Safeway
+    assets:checking                          $-93.39
+    expenses:groceries
+
+2006/05/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2006/05/02 BP
+    assets:checking                          $-56.70
+    expenses:gas
+
+2006/05/10 BP
+    assets:checking                          $-61.52
+    expenses:gas
+
+2006/05/13 me
+    income                                  $-103.24
+    assets:checking
+
+2006/05/13 Harris Teeter
+    assets:checking                          $-91.32
+    expenses:groceries
+
+2006/05/17 Shell
+    assets:checking                          $-63.19
+    expenses:gas
+
+2006/05/18 Movies 8
+    assets:checking                         $-370.42
+    expenses:fun
+
+2006/05/22 Piggly Wiggly
+    assets:checking                          $-90.08
+    expenses:groceries
+
+2006/05/28 BP
+    assets:checking                          $-61.47
+    expenses:gas
+
+2006/05/30 Safeway
+    assets:checking                          $-95.77
+    expenses:groceries
+
+2006/06/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2006/06/04 BP
+    assets:checking                          $-63.47
+    expenses:gas
+
+2006/06/07 Scoops Lounge
+    assets:checking                         $-405.54
+    expenses:fun
+
+2006/06/08 Piggly Wiggly
+    assets:checking                          $-89.96
+    expenses:groceries
+
+2006/06/10 me
+    income                                  $-103.28
+    assets:checking
+
+2006/06/16 BP
+    assets:checking                          $-61.38
+    expenses:gas
+
+2006/06/18 Safeway
+    assets:checking                          $-90.90
+    expenses:groceries
+
+2006/06/26 Pilot
+    assets:checking                          $-67.45
+    expenses:gas
+
+2006/06/27 Karts+
+    assets:checking                         $-384.20
+    expenses:fun
+
+2006/06/28 Piggly Wiggly
+    assets:checking                          $-89.07
+    expenses:groceries
+
+2006/07/01 Clearwater Apartments
+    assets:checking                         $-500.00
+    expenses:rent
+
+2006/07/07 BP
+    assets:checking                          $-58.14
+    expenses:gas
+
+2006/07/08 me
+    income                                  $-103.32
+    assets:checking
+
+2006/07/08 Piggly Wiggly
+    assets:checking                          $-83.09
+    expenses:groceries
+
+2006/07/12 Karts+
+    assets:checking                         $-407.16
+    expenses:fun
+
+2006/07/17 Pilot
+    assets:checking                          $-60.14
+    expenses:gas
+
+2006/07/19 Safeway
+    assets:checking                          $-88.75
+    expenses:groceries
+
+2006/07/26 BP
+    assets:checking                          $-62.48
+    expenses:gas
+
+2006/07/29 Piggly Wiggly
+    assets:checking                          $-94.03
+    expenses:groceries
+
+2006/08/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2006/08/02 Pilot
+    assets:checking                          $-65.25
+    expenses:gas
+
+2006/08/05 me
+    income                                  $-103.36
+    assets:checking
+
+2006/08/05 Karts+
+    assets:checking                         $-402.39
+    expenses:fun
+
+2006/08/06 Safeway
+    assets:checking                          $-83.81
+    expenses:groceries
+
+2006/08/11 BP
+    assets:checking                          $-60.12
+    expenses:gas
+
+2006/08/15 Piggly Wiggly
+    assets:checking                          $-90.15
+    expenses:groceries
+
+2006/08/19 Pilot
+    assets:checking                          $-67.23
+    expenses:gas
+
+2006/08/22 Piggly Wiggly
+    assets:checking                          $-82.77
+    expenses:groceries
+
+2006/08/29 Movies 8
+    assets:checking                         $-442.89
+    expenses:fun
+
+2006/08/30 Shell
+    assets:checking                          $-62.02
+    expenses:gas
+
+2006/08/31 Safeway
+    assets:checking                          $-88.00
+    expenses:groceries
+
+2006/09/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2006/09/02 me
+    income                                  $-103.40
+    assets:checking
+
+2006/09/10 Pilot
+    assets:checking                          $-63.55
+    expenses:gas
+
+2006/09/11 Piggly Wiggly
+    assets:checking                          $-83.33
+    expenses:groceries
+
+2006/09/19 Shell
+    assets:checking                          $-64.47
+    expenses:gas
+
+2006/09/19 Scoops Lounge
+    assets:checking                         $-378.64
+    expenses:fun
+
+2006/09/21 Piggly Wiggly
+    assets:checking                          $-85.68
+    expenses:groceries
+
+2006/09/26 Shell
+    assets:checking                          $-62.20
+    expenses:gas
+
+2006/09/30 me
+    income                                  $-103.44
+    assets:checking
+
+2006/10/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2006/10/03 Harris Teeter
+    assets:checking                          $-97.67
+    expenses:groceries
+
+2006/10/05 Shell
+    assets:checking                          $-68.48
+    expenses:gas
+
+2006/10/05 Scoops Lounge
+    assets:checking                         $-382.50
+    expenses:fun
+
+2006/10/12 Safeway
+    assets:checking                          $-80.99
+    expenses:groceries
+
+2006/10/13 BP
+    assets:checking                          $-59.86
+    expenses:gas
+
+2006/10/21 Harris Teeter
+    assets:checking                          $-92.02
+    expenses:groceries
+
+2006/10/22 Shell
+    assets:checking                          $-68.14
+    expenses:gas
+
+2006/10/28 me
+    income                                  $-103.49
+    assets:checking
+
+2006/10/28 Karts+
+    assets:checking                         $-450.94
+    expenses:fun
+
+2006/10/29 BP
+    assets:checking                          $-66.87
+    expenses:gas
+
+2006/11/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2006/11/02 Safeway
+    assets:checking                          $-94.68
+    expenses:groceries
+
+2006/11/08 Shell
+    assets:checking                          $-61.93
+    expenses:gas
+
+2006/11/12 Harris Teeter
+    assets:checking                          $-85.34
+    expenses:groceries
+
+2006/11/15 BP
+    assets:checking                          $-63.90
+    expenses:gas
+
+2006/11/15 Scoops Lounge
+    assets:checking                         $-375.12
+    expenses:fun
+
+2006/11/20 Piggly Wiggly
+    assets:checking                          $-91.42
+    expenses:groceries
+
+2006/11/24 Pilot
+    assets:checking                          $-57.83
+    expenses:gas
+
+2006/11/25 me
+    income                                  $-103.53
+    assets:checking
+
+2006/12/01 Safeway
+    assets:checking                          $-87.74
+    expenses:groceries
+
+2006/12/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2006/12/03 Pilot
+    assets:checking                          $-69.61
+    expenses:gas
+
+2006/12/04 Movies 8
+    assets:checking                         $-439.76
+    expenses:fun
+
+2006/12/10 Piggly Wiggly
+    assets:checking                          $-85.24
+    expenses:groceries
+
+2006/12/14 BP
+    assets:checking                          $-67.33
+    expenses:gas
+
+2006/12/21 Harris Teeter
+    assets:checking                          $-84.64
+    expenses:groceries
+
+2006/12/22 BP
+    assets:checking                          $-58.11
+    expenses:gas
+
+2006/12/22 Karts+
+    assets:checking                         $-399.31
+    expenses:fun
+
+2006/12/23 me
+    income                                  $-103.57
+    assets:checking
+
+2006/12/28 Piggly Wiggly
+    assets:checking                          $-94.12
+    expenses:groceries
+
+2006/12/31 Pilot
+    assets:checking                          $-57.68
+    expenses:gas
+
+2007/01/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2007/01/06 Movies 8
+    assets:checking                         $-415.45
+    expenses:fun
+
+2007/01/09 Harris Teeter
+    assets:checking                          $-94.44
+    expenses:groceries
+
+2007/01/12 Shell
+    assets:checking                          $-62.83
+    expenses:gas
+
+2007/01/19 Pilot
+    assets:checking                          $-60.22
+    expenses:gas
+
+2007/01/20 me
+    income                                  $-103.61
+    assets:checking
+
+2007/01/20 Piggly Wiggly
+    assets:checking                          $-81.95
+    expenses:groceries
+
+2007/01/28 Movies 8
+    assets:checking                         $-431.63
+    expenses:fun
+
+2007/01/30 Shell
+    assets:checking                          $-69.44
+    expenses:gas
+
+2007/01/30 Safeway
+    assets:checking                          $-92.94
+    expenses:groceries
+
+2007/02/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2007/02/09 Safeway
+    assets:checking                          $-85.88
+    expenses:groceries
+
+2007/02/11 BP
+    assets:checking                          $-68.36
+    expenses:gas
+
+2007/02/16 Karts+
+    assets:checking                         $-395.05
+    expenses:fun
+
+2007/02/17 me
+    income                                  $-103.66
+    assets:checking
+
+2007/02/19 Harris Teeter
+    assets:checking                          $-84.43
+    expenses:groceries
+
+2007/02/22 BP
+    assets:checking                          $-58.17
+    expenses:gas
+
+2007/02/28 Harris Teeter
+    assets:checking                          $-89.70
+    expenses:groceries
+
+2007/03/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2007/03/03 BP
+    assets:checking                          $-62.87
+    expenses:gas
+
+2007/03/05 Movies 8
+    assets:checking                         $-383.53
+    expenses:fun
+
+2007/03/07 Harris Teeter
+    assets:checking                          $-86.45
+    expenses:groceries
+
+2007/03/11 Shell
+    assets:checking                          $-64.88
+    expenses:gas
+
+2007/03/14 Safeway
+    assets:checking                          $-94.92
+    expenses:groceries
+
+2007/03/17 me
+    income                                  $-103.70
+    assets:checking
+
+2007/03/18 Shell
+    assets:checking                          $-59.22
+    expenses:gas
+
+2007/03/22 Piggly Wiggly
+    assets:checking                          $-90.42
+    expenses:groceries
+
+2007/03/26 Scoops Lounge
+    assets:checking                         $-462.75
+    expenses:fun
+
+2007/03/30 Shell
+    assets:checking                          $-60.35
+    expenses:gas
+
+2007/04/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2007/04/03 Piggly Wiggly
+    assets:checking                          $-99.42
+    expenses:groceries
+
+2007/04/09 Shell
+    assets:checking                          $-66.14
+    expenses:gas
+
+2007/04/12 Piggly Wiggly
+    assets:checking                          $-83.57
+    expenses:groceries
+
+2007/04/13 Karts+
+    assets:checking                         $-429.42
+    expenses:fun
+
+2007/04/14 me
+    income                                  $-103.74
+    assets:checking
+
+2007/04/20 Safeway
+    assets:checking                          $-84.82
+    expenses:groceries
+
+2007/04/21 Pilot
+    assets:checking                          $-64.74
+    expenses:gas
+
+2007/04/30 Harris Teeter
+    assets:checking                          $-91.63
+    expenses:groceries
+
+2007/05/01 Shell
+    assets:checking                          $-70.93
+    expenses:gas
+
+2007/05/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2007/05/05 Scoops Lounge
+    assets:checking                         $-420.86
+    expenses:fun
+
+2007/05/07 Piggly Wiggly
+    assets:checking                          $-96.08
+    expenses:groceries
+
+2007/05/11 Pilot
+    assets:checking                          $-68.29
+    expenses:gas
+
+2007/05/12 me
+    income                                  $-103.78
+    assets:checking
+
+2007/05/17 Piggly Wiggly
+    assets:checking                          $-86.88
+    expenses:groceries
+
+2007/05/18 Scoops Lounge
+    assets:checking                         $-401.07
+    expenses:fun
+
+2007/05/19 Shell
+    assets:checking                          $-64.98
+    expenses:gas
+
+2007/05/25 Harris Teeter
+    assets:checking                          $-94.51
+    expenses:groceries
+
+2007/05/27 Pilot
+    assets:checking                          $-67.83
+    expenses:gas
+
+2007/06/01 Piggly Wiggly
+    assets:checking                          $-88.44
+    expenses:groceries
+
+2007/06/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2007/06/05 Karts+
+    assets:checking                         $-468.46
+    expenses:fun
+
+2007/06/07 BP
+    assets:checking                          $-65.64
+    expenses:gas
+
+2007/06/08 Safeway
+    assets:checking                          $-98.45
+    expenses:groceries
+
+2007/06/09 me
+    income                                  $-103.83
+    assets:checking
+
+2007/06/16 Pilot
+    assets:checking                          $-59.35
+    expenses:gas
+
+2007/06/17 Safeway
+    assets:checking                          $-92.37
+    expenses:groceries
+
+2007/06/25 Safeway
+    assets:checking                          $-98.76
+    expenses:groceries
+
+2007/06/25 Karts+
+    assets:checking                         $-452.80
+    expenses:fun
+
+2007/06/28 Pilot
+    assets:checking                          $-62.26
+    expenses:gas
+
+2007/07/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2007/07/03 Safeway
+    assets:checking                         $-100.27
+    expenses:groceries
+
+2007/07/07 me
+    income                                  $-103.87
+    assets:checking
+
+2007/07/08 Shell
+    assets:checking                          $-63.47
+    expenses:gas
+
+2007/07/09 Movies 8
+    assets:checking                         $-454.51
+    expenses:fun
+
+2007/07/12 Piggly Wiggly
+    assets:checking                          $-92.21
+    expenses:groceries
+
+2007/07/15 Shell
+    assets:checking                          $-66.86
+    expenses:gas
+
+2007/07/23 Safeway
+    assets:checking                          $-88.64
+    expenses:groceries
+
+2007/07/25 Movies 8
+    assets:checking                         $-411.43
+    expenses:fun
+
+2007/07/26 Pilot
+    assets:checking                          $-71.73
+    expenses:gas
+
+2007/08/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2007/08/04 me
+    income                                  $-103.91
+    assets:checking
+
+2007/08/04 Safeway
+    assets:checking                         $-100.93
+    expenses:groceries
+
+2007/08/06 BP
+    assets:checking                          $-62.04
+    expenses:gas
+
+2007/08/12 Piggly Wiggly
+    assets:checking                          $-92.63
+    expenses:groceries
+
+2007/08/13 Scoops Lounge
+    assets:checking                         $-404.25
+    expenses:fun
+
+2007/08/14 Shell
+    assets:checking                          $-59.99
+    expenses:gas
+
+2007/08/21 BP
+    assets:checking                          $-61.79
+    expenses:gas
+
+2007/08/23 Safeway
+    assets:checking                          $-83.90
+    expenses:groceries
+
+2007/08/30 BP
+    assets:checking                          $-61.17
+    expenses:gas
+
+2007/08/31 Scoops Lounge
+    assets:checking                         $-435.86
+    expenses:fun
+
+2007/09/01 me
+    income                                  $-103.96
+    assets:checking
+
+2007/09/01 Harris Teeter
+    assets:checking                         $-102.51
+    expenses:groceries
+
+2007/09/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2007/09/06 Shell
+    assets:checking                          $-67.00
+    expenses:gas
+
+2007/09/08 Harris Teeter
+    assets:checking                          $-88.38
+    expenses:groceries
+
+2007/09/14 BP
+    assets:checking                          $-62.31
+    expenses:gas
+
+2007/09/18 Safeway
+    assets:checking                          $-95.90
+    expenses:groceries
+
+2007/09/18 Scoops Lounge
+    assets:checking                         $-429.64
+    expenses:fun
+
+2007/09/23 BP
+    assets:checking                          $-64.45
+    expenses:gas
+
+2007/09/29 me
+    income                                  $-104.00
+    assets:checking
+
+2007/09/29 Piggly Wiggly
+    assets:checking                          $-90.02
+    expenses:groceries
+
+2007/10/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2007/10/04 Shell
+    assets:checking                          $-73.33
+    expenses:gas
+
+2007/10/07 Movies 8
+    assets:checking                         $-443.62
+    expenses:fun
+
+2007/10/08 Safeway
+    assets:checking                          $-92.41
+    expenses:groceries
+
+2007/10/11 BP
+    assets:checking                          $-65.71
+    expenses:gas
+
+2007/10/17 Safeway
+    assets:checking                          $-90.68
+    expenses:groceries
+
+2007/10/20 Shell
+    assets:checking                          $-70.68
+    expenses:gas
+
+2007/10/26 Karts+
+    assets:checking                         $-400.95
+    expenses:fun
+
+2007/10/27 me
+    income                                  $-104.04
+    assets:checking
+
+2007/10/27 Harris Teeter
+    assets:checking                          $-85.67
+    expenses:groceries
+
+2007/10/30 Pilot
+    assets:checking                          $-62.12
+    expenses:gas
+
+2007/11/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2007/11/08 Piggly Wiggly
+    assets:checking                          $-92.33
+    expenses:groceries
+
+2007/11/11 Pilot
+    assets:checking                          $-64.00
+    expenses:gas
+
+2007/11/17 Movies 8
+    assets:checking                         $-422.25
+    expenses:fun
+
+2007/11/20 Piggly Wiggly
+    assets:checking                          $-90.03
+    expenses:groceries
+
+2007/11/21 Pilot
+    assets:checking                          $-66.14
+    expenses:gas
+
+2007/11/24 me
+    income                                  $-104.09
+    assets:checking
+
+2007/11/28 Piggly Wiggly
+    assets:checking                          $-88.64
+    expenses:groceries
+
+2007/11/30 Movies 8
+    assets:checking                         $-459.72
+    expenses:fun
+
+2007/12/01 Shell
+    assets:checking                          $-72.14
+    expenses:gas
+
+2007/12/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2007/12/05 Harris Teeter
+    assets:checking                          $-85.30
+    expenses:groceries
+
+2007/12/10 Shell
+    assets:checking                          $-73.37
+    expenses:gas
+
+2007/12/16 Safeway
+    assets:checking                         $-102.68
+    expenses:groceries
+
+2007/12/18 Shell
+    assets:checking                          $-73.28
+    expenses:gas
+
+2007/12/20 Scoops Lounge
+    assets:checking                         $-424.65
+    expenses:fun
+
+2007/12/22 me
+    income                                  $-104.13
+    assets:checking
+
+2007/12/25 Harris Teeter
+    assets:checking                          $-96.86
+    expenses:groceries
+
+2007/12/30 Shell
+    assets:checking                          $-65.18
+    expenses:gas
+
+2008/01/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2008/01/05 Karts+
+    assets:checking                         $-412.21
+    expenses:fun
+
+2008/01/06 Piggly Wiggly
+    assets:checking                          $-90.70
+    expenses:groceries
+
+2008/01/07 BP
+    assets:checking                          $-69.50
+    expenses:gas
+
+2008/01/14 BP
+    assets:checking                          $-61.08
+    expenses:gas
+
+2008/01/14 Piggly Wiggly
+    assets:checking                          $-89.59
+    expenses:groceries
+
+2008/01/19 me
+    income                                  $-104.17
+    assets:checking
+
+2008/01/25 Safeway
+    assets:checking                         $-104.57
+    expenses:groceries
+
+2008/01/26 Shell
+    assets:checking                          $-62.52
+    expenses:gas
+
+2008/01/28 Scoops Lounge
+    assets:checking                         $-470.07
+    expenses:fun
+
+2008/02/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2008/02/06 Shell
+    assets:checking                          $-73.18
+    expenses:gas
+
+2008/02/06 Safeway
+    assets:checking                         $-104.28
+    expenses:groceries
+
+2008/02/10 Movies 8
+    assets:checking                         $-484.12
+    expenses:fun
+
+2008/02/14 Safeway
+    assets:checking                          $-88.52
+    expenses:groceries
+
+2008/02/16 me
+    income                                  $-104.22
+    assets:checking
+
+2008/02/16 Shell
+    assets:checking                          $-67.75
+    expenses:gas
+
+2008/02/22 Safeway
+    assets:checking                          $-86.84
+    expenses:groceries
+
+2008/02/28 Pilot
+    assets:checking                          $-74.04
+    expenses:gas
+
+2008/03/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2008/03/04 Harris Teeter
+    assets:checking                          $-95.09
+    expenses:groceries
+
+2008/03/05 Scoops Lounge
+    assets:checking                         $-399.52
+    expenses:fun
+
+2008/03/07 BP
+    assets:checking                          $-66.36
+    expenses:gas
+
+2008/03/13 Safeway
+    assets:checking                          $-91.62
+    expenses:groceries
+
+2008/03/15 me
+    income                                  $-104.26
+    assets:checking
+
+2008/03/18 Pilot
+    assets:checking                          $-64.17
+    expenses:gas
+
+2008/03/19 Karts+
+    assets:checking                         $-474.67
+    expenses:fun
+
+2008/03/20 Safeway
+    assets:checking                          $-90.85
+    expenses:groceries
+
+2008/03/26 Pilot
+    assets:checking                          $-64.19
+    expenses:gas
+
+2008/03/31 Safeway
+    assets:checking                         $-100.41
+    expenses:groceries
+
+2008/04/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2008/04/06 Shell
+    assets:checking                          $-64.28
+    expenses:gas
+
+2008/04/10 Safeway
+    assets:checking                          $-98.49
+    expenses:groceries
+
+2008/04/11 Karts+
+    assets:checking                         $-456.87
+    expenses:fun
+
+2008/04/12 me
+    income                                  $-104.31
+    assets:checking
+
+2008/04/14 Shell
+    assets:checking                          $-75.34
+    expenses:gas
+
+2008/04/17 Harris Teeter
+    assets:checking                          $-96.07
+    expenses:groceries
+
+2008/04/22 Shell
+    assets:checking                          $-74.51
+    expenses:gas
+
+2008/04/25 Piggly Wiggly
+    assets:checking                         $-100.60
+    expenses:groceries
+
+2008/05/01 Pilot
+    assets:checking                          $-74.09
+    expenses:gas
+
+2008/05/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2008/05/03 Harris Teeter
+    assets:checking                          $-95.50
+    expenses:groceries
+
+2008/05/04 Karts+
+    assets:checking                         $-415.56
+    expenses:fun
+
+2008/05/10 me
+    income                                  $-104.35
+    assets:checking
+
+2008/05/12 Pilot
+    assets:checking                          $-72.89
+    expenses:gas
+
+2008/05/13 Safeway
+    assets:checking                          $-99.70
+    expenses:groceries
+
+2008/05/21 Shell
+    assets:checking                          $-70.54
+    expenses:gas
+
+2008/05/25 Harris Teeter
+    assets:checking                         $-106.26
+    expenses:groceries
+
+2008/05/25 Scoops Lounge
+    assets:checking                         $-415.86
+    expenses:fun
+
+2008/05/28 Pilot
+    assets:checking                          $-74.50
+    expenses:gas
+
+2008/06/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2008/06/03 Piggly Wiggly
+    assets:checking                         $-100.25
+    expenses:groceries
+
+2008/06/05 BP
+    assets:checking                          $-63.56
+    expenses:gas
+
+2008/06/07 me
+    income                                  $-104.40
+    assets:checking
+
+2008/06/10 Piggly Wiggly
+    assets:checking                          $-97.21
+    expenses:groceries
+
+2008/06/15 Karts+
+    assets:checking                         $-489.51
+    expenses:fun
+
+2008/06/17 Shell
+    assets:checking                          $-73.94
+    expenses:gas
+
+2008/06/20 Piggly Wiggly
+    assets:checking                          $-97.48
+    expenses:groceries
+
+2008/06/27 BP
+    assets:checking                          $-71.93
+    expenses:gas
+
+2008/06/28 Karts+
+    assets:checking                         $-443.91
+    expenses:fun
+
+2008/06/29 Piggly Wiggly
+    assets:checking                          $-97.94
+    expenses:groceries
+
+2008/07/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2008/07/05 me
+    income                                  $-104.44
+    assets:checking
+
+2008/07/07 BP
+    assets:checking                          $-71.00
+    expenses:gas
+
+2008/07/08 Harris Teeter
+    assets:checking                          $-91.33
+    expenses:groceries
+
+2008/07/11 Scoops Lounge
+    assets:checking                         $-485.82
+    expenses:fun
+
+2008/07/15 Pilot
+    assets:checking                          $-67.64
+    expenses:gas
+
+2008/07/19 Piggly Wiggly
+    assets:checking                          $-99.12
+    expenses:groceries
+
+2008/07/27 BP
+    assets:checking                          $-64.79
+    expenses:gas
+
+2008/07/28 Scoops Lounge
+    assets:checking                         $-475.01
+    expenses:fun
+
+2008/07/31 Piggly Wiggly
+    assets:checking                         $-100.77
+    expenses:groceries
+
+2008/08/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2008/08/02 me
+    income                                  $-104.49
+    assets:checking
+
+2008/08/04 Shell
+    assets:checking                          $-69.76
+    expenses:gas
+
+2008/08/11 BP
+    assets:checking                          $-66.40
+    expenses:gas
+
+2008/08/11 Piggly Wiggly
+    assets:checking                         $-102.91
+    expenses:groceries
+
+2008/08/12 Movies 8
+    assets:checking                         $-403.03
+    expenses:fun
+
+2008/08/19 Piggly Wiggly
+    assets:checking                          $-90.87
+    expenses:groceries
+
+2008/08/23 BP
+    assets:checking                          $-71.15
+    expenses:gas
+
+2008/08/29 Harris Teeter
+    assets:checking                          $-95.51
+    expenses:groceries
+
+2008/08/30 me
+    income                                  $-104.53
+    assets:checking
+
+2008/08/30 BP
+    assets:checking                          $-67.36
+    expenses:gas
+
+2008/08/31 Karts+
+    assets:checking                         $-438.70
+    expenses:fun
+
+2008/09/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2008/09/05 Safeway
+    assets:checking                          $-89.42
+    expenses:groceries
+
+2008/09/09 Pilot
+    assets:checking                          $-66.99
+    expenses:gas
+
+2008/09/15 Piggly Wiggly
+    assets:checking                          $-91.42
+    expenses:groceries
+
+2008/09/16 Scoops Lounge
+    assets:checking                         $-435.34
+    expenses:fun
+
+2008/09/21 Pilot
+    assets:checking                          $-70.97
+    expenses:gas
+
+2008/09/23 Piggly Wiggly
+    assets:checking                         $-108.13
+    expenses:groceries
+
+2008/09/27 me
+    income                                  $-104.58
+    assets:checking
+
+2008/09/29 Shell
+    assets:checking                          $-70.27
+    expenses:gas
+
+2008/09/29 Scoops Lounge
+    assets:checking                         $-458.79
+    expenses:fun
+
+2008/09/30 Safeway
+    assets:checking                         $-107.24
+    expenses:groceries
+
+2008/10/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2008/10/08 Shell
+    assets:checking                          $-70.59
+    expenses:gas
+
+2008/10/10 Harris Teeter
+    assets:checking                          $-91.60
+    expenses:groceries
+
+2008/10/16 BP
+    assets:checking                          $-67.61
+    expenses:gas
+
+2008/10/16 Scoops Lounge
+    assets:checking                         $-488.35
+    expenses:fun
+
+2008/10/20 Piggly Wiggly
+    assets:checking                         $-102.12
+    expenses:groceries
+
+2008/10/25 me
+    income                                  $-104.62
+    assets:checking
+
+2008/10/26 Pilot
+    assets:checking                          $-73.00
+    expenses:gas
+
+2008/10/31 Piggly Wiggly
+    assets:checking                          $-91.55
+    expenses:groceries
+
+2008/11/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2008/11/06 Movies 8
+    assets:checking                         $-416.19
+    expenses:fun
+
+2008/11/07 Shell
+    assets:checking                          $-71.77
+    expenses:gas
+
+2008/11/08 Safeway
+    assets:checking                         $-108.69
+    expenses:groceries
+
+2008/11/15 Shell
+    assets:checking                          $-74.66
+    expenses:gas
+
+2008/11/20 Harris Teeter
+    assets:checking                          $-97.16
+    expenses:groceries
+
+2008/11/20 Movies 8
+    assets:checking                         $-454.47
+    expenses:fun
+
+2008/11/22 me
+    income                                  $-104.67
+    assets:checking
+
+2008/11/25 BP
+    assets:checking                          $-70.21
+    expenses:gas
+
+2008/11/30 Harris Teeter
+    assets:checking                          $-94.03
+    expenses:groceries
+
+2008/12/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2008/12/05 BP
+    assets:checking                          $-72.86
+    expenses:gas
+
+2008/12/10 Scoops Lounge
+    assets:checking                         $-426.06
+    expenses:fun
+
+2008/12/12 Safeway
+    assets:checking                          $-92.11
+    expenses:groceries
+
+2008/12/17 Shell
+    assets:checking                          $-73.86
+    expenses:gas
+
+2008/12/20 me
+    income                                  $-104.71
+    assets:checking
+
+2008/12/21 Harris Teeter
+    assets:checking                         $-100.42
+    expenses:groceries
+
+2008/12/25 Shell
+    assets:checking                          $-73.10
+    expenses:gas
+
+2008/12/26 Scoops Lounge
+    assets:checking                         $-447.45
+    expenses:fun
+
+2008/12/31 Piggly Wiggly
+    assets:checking                         $-104.59
+    expenses:groceries
+
+2009/01/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2009/01/04 Pilot
+    assets:checking                          $-68.57
+    expenses:gas
+
+2009/01/10 Piggly Wiggly
+    assets:checking                         $-108.52
+    expenses:groceries
+
+2009/01/14 Movies 8
+    assets:checking                         $-443.39
+    expenses:fun
+
+2009/01/15 BP
+    assets:checking                          $-72.62
+    expenses:gas
+
+2009/01/17 me
+    income                                  $-104.76
+    assets:checking
+
+2009/01/20 Safeway
+    assets:checking                         $-103.85
+    expenses:groceries
+
+2009/01/26 Shell
+    assets:checking                          $-68.52
+    expenses:gas
+
+2009/01/27 Scoops Lounge
+    assets:checking                         $-422.95
+    expenses:fun
+
+2009/01/30 Piggly Wiggly
+    assets:checking                          $-91.09
+    expenses:groceries
+
+2009/02/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2009/02/03 BP
+    assets:checking                          $-69.65
+    expenses:gas
+
+2009/02/10 Pilot
+    assets:checking                          $-75.41
+    expenses:gas
+
+2009/02/10 Harris Teeter
+    assets:checking                         $-106.27
+    expenses:groceries
+
+2009/02/14 me
+    income                                  $-104.80
+    assets:checking
+
+2009/02/15 Movies 8
+    assets:checking                         $-428.73
+    expenses:fun
+
+2009/02/19 Pilot
+    assets:checking                          $-66.11
+    expenses:gas
+
+2009/02/20 Harris Teeter
+    assets:checking                          $-91.14
+    expenses:groceries
+
+2009/02/26 BP
+    assets:checking                          $-75.72
+    expenses:gas
+
+2009/02/27 Safeway
+    assets:checking                          $-93.90
+    expenses:groceries
+
+2009/03/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2009/03/05 Movies 8
+    assets:checking                         $-476.53
+    expenses:fun
+
+2009/03/08 BP
+    assets:checking                          $-74.94
+    expenses:gas
+
+2009/03/09 Harris Teeter
+    assets:checking                          $-98.85
+    expenses:groceries
+
+2009/03/14 me
+    income                                  $-104.85
+    assets:checking
+
+2009/03/18 Pilot
+    assets:checking                          $-66.88
+    expenses:gas
+
+2009/03/21 Safeway
+    assets:checking                          $-94.30
+    expenses:groceries
+
+2009/03/27 Scoops Lounge
+    assets:checking                         $-455.11
+    expenses:fun
+
+2009/03/28 Pilot
+    assets:checking                          $-73.46
+    expenses:gas
+
+2009/03/28 Piggly Wiggly
+    assets:checking                          $-95.46
+    expenses:groceries
+
+2009/04/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2009/04/07 Shell
+    assets:checking                          $-74.74
+    expenses:gas
+
+2009/04/07 Safeway
+    assets:checking                          $-93.62
+    expenses:groceries
+
+2009/04/11 me
+    income                                  $-104.90
+    assets:checking
+
+2009/04/14 Piggly Wiggly
+    assets:checking                         $-107.42
+    expenses:groceries
+
+2009/04/16 Scoops Lounge
+    assets:checking                         $-452.52
+    expenses:fun
+
+2009/04/17 BP
+    assets:checking                          $-72.04
+    expenses:gas
+
+2009/04/23 Piggly Wiggly
+    assets:checking                         $-108.94
+    expenses:groceries
+
+2009/04/26 BP
+    assets:checking                          $-73.41
+    expenses:gas
+
+2009/04/29 Scoops Lounge
+    assets:checking                         $-462.33
+    expenses:fun
+
+2009/05/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2009/05/03 Shell
+    assets:checking                          $-71.00
+    expenses:gas
+
+2009/05/05 Safeway
+    assets:checking                          $-97.85
+    expenses:groceries
+
+2009/05/09 me
+    income                                  $-104.94
+    assets:checking
+
+2009/05/14 Pilot
+    assets:checking                          $-77.31
+    expenses:gas
+
+2009/05/17 Harris Teeter
+    assets:checking                          $-96.88
+    expenses:groceries
+
+2009/05/17 Scoops Lounge
+    assets:checking                         $-450.39
+    expenses:fun
+
+2009/05/23 Shell
+    assets:checking                          $-67.04
+    expenses:gas
+
+2009/05/26 Piggly Wiggly
+    assets:checking                          $-94.43
+    expenses:groceries
+
+2009/05/31 Shell
+    assets:checking                          $-71.04
+    expenses:gas
+
+2009/06/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2009/06/03 Harris Teeter
+    assets:checking                         $-101.39
+    expenses:groceries
+
+2009/06/06 me
+    income                                  $-104.99
+    assets:checking
+
+2009/06/10 Harris Teeter
+    assets:checking                         $-108.80
+    expenses:groceries
+
+2009/06/10 Karts+
+    assets:checking                         $-478.71
+    expenses:fun
+
+2009/06/12 Pilot
+    assets:checking                          $-73.90
+    expenses:gas
+
+2009/06/20 Harris Teeter
+    assets:checking                         $-100.89
+    expenses:groceries
+
+2009/06/22 Pilot
+    assets:checking                          $-79.22
+    expenses:gas
+
+2009/06/26 Movies 8
+    assets:checking                         $-476.83
+    expenses:fun
+
+2009/07/01 BP
+    assets:checking                          $-70.78
+    expenses:gas
+
+2009/07/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2009/07/02 Harris Teeter
+    assets:checking                         $-102.46
+    expenses:groceries
+
+2009/07/04 me
+    income                                  $-105.04
+    assets:checking
+
+2009/07/11 BP
+    assets:checking                          $-67.27
+    expenses:gas
+
+2009/07/11 Piggly Wiggly
+    assets:checking                          $-98.82
+    expenses:groceries
+
+2009/07/16 Scoops Lounge
+    assets:checking                         $-490.75
+    expenses:fun
+
+2009/07/19 Shell
+    assets:checking                          $-66.64
+    expenses:gas
+
+2009/07/22 Harris Teeter
+    assets:checking                          $-97.90
+    expenses:groceries
+
+2009/07/27 Pilot
+    assets:checking                          $-76.05
+    expenses:gas
+
+2009/07/31 Harris Teeter
+    assets:checking                         $-105.25
+    expenses:groceries
+
+2009/07/31 Scoops Lounge
+    assets:checking                         $-472.02
+    expenses:fun
+
+2009/08/01 me
+    income                                  $-105.08
+    assets:checking
+
+2009/08/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2009/08/05 Pilot
+    assets:checking                          $-76.06
+    expenses:gas
+
+2009/08/12 Piggly Wiggly
+    assets:checking                         $-101.39
+    expenses:groceries
+
+2009/08/13 BP
+    assets:checking                          $-72.37
+    expenses:gas
+
+2009/08/22 Scoops Lounge
+    assets:checking                         $-463.53
+    expenses:fun
+
+2009/08/23 Harris Teeter
+    assets:checking                          $-94.37
+    expenses:groceries
+
+2009/08/24 BP
+    assets:checking                          $-76.74
+    expenses:gas
+
+2009/08/29 me
+    income                                  $-105.13
+    assets:checking
+
+2009/08/31 Harris Teeter
+    assets:checking                         $-108.63
+    expenses:groceries
+
+2009/09/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2009/09/04 Shell
+    assets:checking                          $-70.68
+    expenses:gas
+
+2009/09/07 Karts+
+    assets:checking                         $-439.49
+    expenses:fun
+
+2009/09/10 Safeway
+    assets:checking                         $-108.03
+    expenses:groceries
+
+2009/09/12 Pilot
+    assets:checking                          $-71.95
+    expenses:gas
+
+2009/09/20 Pilot
+    assets:checking                          $-69.31
+    expenses:gas
+
+2009/09/20 Harris Teeter
+    assets:checking                         $-105.34
+    expenses:groceries
+
+2009/09/26 me
+    income                                  $-105.18
+    assets:checking
+
+2009/09/27 Scoops Lounge
+    assets:checking                         $-461.06
+    expenses:fun
+
+2009/10/01 Pilot
+    assets:checking                          $-75.99
+    expenses:gas
+
+2009/10/01 Piggly Wiggly
+    assets:checking                         $-104.23
+    expenses:groceries
+
+2009/10/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2009/10/08 Safeway
+    assets:checking                         $-107.45
+    expenses:groceries
+
+2009/10/13 BP
+    assets:checking                          $-72.30
+    expenses:gas
+
+2009/10/17 Scoops Lounge
+    assets:checking                         $-460.64
+    expenses:fun
+
+2009/10/19 Safeway
+    assets:checking                          $-96.74
+    expenses:groceries
+
+2009/10/23 BP
+    assets:checking                          $-79.47
+    expenses:gas
+
+2009/10/24 me
+    income                                  $-105.23
+    assets:checking
+
+2009/10/26 Safeway
+    assets:checking                         $-109.58
+    expenses:groceries
+
+2009/11/01 Pilot
+    assets:checking                          $-72.85
+    expenses:gas
+
+2009/11/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2009/11/03 Safeway
+    assets:checking                         $-111.36
+    expenses:groceries
+
+2009/11/08 Scoops Lounge
+    assets:checking                         $-443.08
+    expenses:fun
+
+2009/11/09 BP
+    assets:checking                          $-76.13
+    expenses:gas
+
+2009/11/12 Safeway
+    assets:checking                         $-103.38
+    expenses:groceries
+
+2009/11/16 BP
+    assets:checking                          $-71.95
+    expenses:gas
+
+2009/11/21 me
+    income                                  $-105.27
+    assets:checking
+
+2009/11/21 Safeway
+    assets:checking                         $-106.87
+    expenses:groceries
+
+2009/11/24 BP
+    assets:checking                          $-76.71
+    expenses:gas
+
+2009/11/24 Movies 8
+    assets:checking                         $-427.57
+    expenses:fun
+
+2009/12/01 Harris Teeter
+    assets:checking                         $-111.67
+    expenses:groceries
+
+2009/12/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2009/12/02 BP
+    assets:checking                          $-74.92
+    expenses:gas
+
+2009/12/09 Harris Teeter
+    assets:checking                         $-109.65
+    expenses:groceries
+
+2009/12/10 Scoops Lounge
+    assets:checking                         $-488.38
+    expenses:fun
+
+2009/12/11 Pilot
+    assets:checking                          $-75.90
+    expenses:gas
+
+2009/12/16 Piggly Wiggly
+    assets:checking                         $-103.98
+    expenses:groceries
+
+2009/12/19 me
+    income                                  $-105.32
+    assets:checking
+
+2009/12/22 BP
+    assets:checking                          $-71.93
+    expenses:gas
+
+2009/12/25 Piggly Wiggly
+    assets:checking                         $-111.26
+    expenses:groceries
+
+2009/12/29 Pilot
+    assets:checking                          $-79.72
+    expenses:gas
+
+2009/12/31 Scoops Lounge
+    assets:checking                         $-469.70
+    expenses:fun
+
+2010/01/01 Clearwater Apartments
+    assets:checking                         $-700.00
+    expenses:rent
+
+2010/01/03 Safeway
+    assets:checking                          $-96.37
+    expenses:groceries
+
+2010/01/06 BP
+    assets:checking                          $-70.04
+    expenses:gas
+
+2010/01/12 Piggly Wiggly
+    assets:checking                         $-108.18
+    expenses:groceries
+
+2010/01/14 Movies 8
+    assets:checking                         $-472.32
+    expenses:fun
+
+2010/01/16 me
+    income                                  $-105.37
+    assets:checking
+
+2010/01/17 BP
+    assets:checking                          $-79.50
+    expenses:gas
+
+2010/01/24 BP
+    assets:checking                          $-79.56
+    expenses:gas
+
+2010/01/24 Piggly Wiggly
+    assets:checking                         $-113.34
+    expenses:groceries
+
+2010/02/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2010/02/03 Piggly Wiggly
+    assets:checking                         $-104.07
+    expenses:groceries
+
+2010/02/04 Karts+
+    assets:checking                         $-492.57
+    expenses:fun
+
+2010/02/05 Pilot
+    assets:checking                          $-74.57
+    expenses:gas
+
+2010/02/13 me
+    income                                  $-105.42
+    assets:checking
+
+2010/02/14 Harris Teeter
+    assets:checking                         $-104.50
+    expenses:groceries
+
+2010/02/15 Pilot
+    assets:checking                          $-73.56
+    expenses:gas
+
+2010/02/22 Shell
+    assets:checking                          $-70.87
+    expenses:gas
+
+2010/02/23 Harris Teeter
+    assets:checking                          $-96.56
+    expenses:groceries
+
+2010/02/26 Scoops Lounge
+    assets:checking                         $-426.00
+    expenses:fun
+
+2010/03/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2010/03/02 Pilot
+    assets:checking                          $-68.12
+    expenses:gas
+
+2010/03/02 Safeway
+    assets:checking                         $-102.18
+    expenses:groceries
+
+2010/03/11 Pilot
+    assets:checking                          $-77.40
+    expenses:gas
+
+2010/03/11 Safeway
+    assets:checking                         $-115.03
+    expenses:groceries
+
+2010/03/13 me
+    income                                  $-105.47
+    assets:checking
+
+2010/03/13 Movies 8
+    assets:checking                         $-491.96
+    expenses:fun
+
+2010/03/21 BP
+    assets:checking                          $-78.87
+    expenses:gas
+
+2010/03/22 Safeway
+    assets:checking                         $-105.61
+    expenses:groceries
+
+2010/03/27 Scoops Lounge
+    assets:checking                         $-478.17
+    expenses:fun
+
+2010/03/30 Shell
+    assets:checking                          $-73.52
+    expenses:gas
+
+2010/04/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2010/04/02 Harris Teeter
+    assets:checking                          $-97.21
+    expenses:groceries
+
+2010/04/06 Pilot
+    assets:checking                          $-79.50
+    expenses:gas
+
+2010/04/10 me
+    income                                  $-105.52
+    assets:checking
+
+2010/04/10 Piggly Wiggly
+    assets:checking                         $-113.83
+    expenses:groceries
+
+2010/04/12 Scoops Lounge
+    assets:checking                         $-404.81
+    expenses:fun
+
+2010/04/17 Shell
+    assets:checking                          $-71.50
+    expenses:gas
+
+2010/04/22 Safeway
+    assets:checking                         $-113.99
+    expenses:groceries
+
+2010/04/29 BP
+    assets:checking                          $-81.90
+    expenses:gas
+
+2010/04/29 Scoops Lounge
+    assets:checking                         $-449.38
+    expenses:fun
+
+2010/05/01 Piggly Wiggly
+    assets:checking                         $-113.53
+    expenses:groceries
+
+2010/05/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2010/05/06 Pilot
+    assets:checking                          $-79.97
+    expenses:gas
+
+2010/05/08 me
+    income                                  $-105.56
+    assets:checking
+
+2010/05/11 Safeway
+    assets:checking                          $-99.70
+    expenses:groceries
+
+2010/05/13 Scoops Lounge
+    assets:checking                         $-439.86
+    expenses:fun
+
+2010/05/14 Shell
+    assets:checking                          $-77.83
+    expenses:gas
+
+2010/05/19 Harris Teeter
+    assets:checking                         $-114.25
+    expenses:groceries
+
+2010/05/21 BP
+    assets:checking                          $-82.20
+    expenses:gas
+
+2010/05/28 Safeway
+    assets:checking                          $-98.26
+    expenses:groceries
+
+2010/05/31 BP
+    assets:checking                          $-71.44
+    expenses:gas
+
+2010/06/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2010/06/05 me
+    income                                  $-105.61
+    assets:checking
+
+2010/06/05 Karts+
+    assets:checking                         $-478.63
+    expenses:fun
+
+2010/06/08 Piggly Wiggly
+    assets:checking                         $-107.21
+    expenses:groceries
+
+2010/06/11 Shell
+    assets:checking                          $-79.02
+    expenses:gas
+
+2010/06/17 Safeway
+    assets:checking                         $-102.36
+    expenses:groceries
+
+2010/06/21 BP
+    assets:checking                          $-76.64
+    expenses:gas
+
+2010/06/23 Movies 8
+    assets:checking                         $-470.84
+    expenses:fun
+
+2010/06/29 Piggly Wiggly
+    assets:checking                         $-109.70
+    expenses:groceries
+
+2010/07/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2010/07/02 Shell
+    assets:checking                          $-81.89
+    expenses:gas
+
+2010/07/03 me
+    income                                  $-105.66
+    assets:checking
+
+2010/07/07 Movies 8
+    assets:checking                         $-436.79
+    expenses:fun
+
+2010/07/08 Harris Teeter
+    assets:checking                         $-111.50
+    expenses:groceries
+
+2010/07/12 BP
+    assets:checking                          $-71.89
+    expenses:gas
+
+2010/07/19 Safeway
+    assets:checking                         $-111.61
+    expenses:groceries
+
+2010/07/24 Pilot
+    assets:checking                          $-69.45
+    expenses:gas
+
+2010/07/26 Scoops Lounge
+    assets:checking                         $-399.84
+    expenses:fun
+
+2010/07/27 Safeway
+    assets:checking                         $-105.61
+    expenses:groceries
+
+2010/07/31 me
+    income                                  $-105.71
+    assets:checking
+
+2010/08/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2010/08/03 Pilot
+    assets:checking                          $-81.99
+    expenses:gas
+
+2010/08/05 Safeway
+    assets:checking                         $-117.11
+    expenses:groceries
+
+2010/08/09 Karts+
+    assets:checking                         $-400.92
+    expenses:fun
+
+2010/08/10 Shell
+    assets:checking                          $-71.63
+    expenses:gas
+
+2010/08/15 Harris Teeter
+    assets:checking                         $-105.15
+    expenses:groceries
+
+2010/08/19 BP
+    assets:checking                          $-77.98
+    expenses:gas
+
+2010/08/26 Piggly Wiggly
+    assets:checking                         $-103.18
+    expenses:groceries
+
+2010/08/28 me
+    income                                  $-105.76
+    assets:checking
+
+2010/08/29 BP
+    assets:checking                          $-82.45
+    expenses:gas
+
+2010/08/29 Scoops Lounge
+    assets:checking                         $-402.43
+    expenses:fun
+
+2010/09/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2010/09/06 Piggly Wiggly
+    assets:checking                         $-101.24
+    expenses:groceries
+
+2010/09/10 BP
+    assets:checking                          $-76.04
+    expenses:gas
+
+2010/09/15 Piggly Wiggly
+    assets:checking                         $-106.43
+    expenses:groceries
+
+2010/09/19 Karts+
+    assets:checking                         $-461.95
+    expenses:fun
+
+2010/09/20 BP
+    assets:checking                          $-79.82
+    expenses:gas
+
+2010/09/24 Harris Teeter
+    assets:checking                         $-108.46
+    expenses:groceries
+
+2010/09/25 me
+    income                                  $-105.81
+    assets:checking
+
+2010/09/30 Shell
+    assets:checking                          $-79.85
+    expenses:gas
+
+2010/10/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2010/10/04 Safeway
+    assets:checking                         $-109.74
+    expenses:groceries
+
+2010/10/07 BP
+    assets:checking                          $-77.31
+    expenses:gas
+
+2010/10/10 Movies 8
+    assets:checking                         $-402.33
+    expenses:fun
+
+2010/10/13 Harris Teeter
+    assets:checking                         $-107.88
+    expenses:groceries
+
+2010/10/14 Pilot
+    assets:checking                          $-83.13
+    expenses:gas
+
+2010/10/22 Piggly Wiggly
+    assets:checking                         $-102.35
+    expenses:groceries
+
+2010/10/23 me
+    income                                  $-105.86
+    assets:checking
+
+2010/10/24 Pilot
+    assets:checking                          $-77.01
+    expenses:gas
+
+2010/10/24 Karts+
+    assets:checking                         $-416.98
+    expenses:fun
+
+2010/10/31 Piggly Wiggly
+    assets:checking                         $-118.82
+    expenses:groceries
+
+2010/11/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2010/11/03 Shell
+    assets:checking                          $-82.67
+    expenses:gas
+
+2010/11/06 Scoops Lounge
+    assets:checking                         $-400.21
+    expenses:fun
+
+2010/11/10 Harris Teeter
+    assets:checking                         $-103.63
+    expenses:groceries
+
+2010/11/11 BP
+    assets:checking                          $-81.84
+    expenses:gas
+
+2010/11/20 me
+    income                                  $-105.91
+    assets:checking
+
+2010/11/22 Shell
+    assets:checking                          $-79.36
+    expenses:gas
+
+2010/11/22 Piggly Wiggly
+    assets:checking                         $-101.12
+    expenses:groceries
+
+2010/11/26 Karts+
+    assets:checking                         $-424.69
+    expenses:fun
+
+2010/11/30 Pilot
+    assets:checking                          $-69.90
+    expenses:gas
+
+2010/11/30 Safeway
+    assets:checking                         $-112.86
+    expenses:groceries
+
+2010/12/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2010/12/09 Piggly Wiggly
+    assets:checking                         $-115.16
+    expenses:groceries
+
+2010/12/10 Shell
+    assets:checking                          $-71.31
+    expenses:gas
+
+2010/12/14 Scoops Lounge
+    assets:checking                         $-399.34
+    expenses:fun
+
+2010/12/17 Shell
+    assets:checking                          $-68.44
+    expenses:gas
+
+2010/12/18 me
+    income                                  $-105.96
+    assets:checking
+
+2010/12/19 Piggly Wiggly
+    assets:checking                         $-110.06
+    expenses:groceries
+
+2010/12/24 BP
+    assets:checking                          $-77.92
+    expenses:gas
+
+2010/12/27 Harris Teeter
+    assets:checking                         $-101.30
+    expenses:groceries
+
+2010/12/28 Karts+
+    assets:checking                         $-437.38
+    expenses:fun
+
+2011/01/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2011/01/02 Shell
+    assets:checking                          $-80.20
+    expenses:gas
+
+2011/01/06 Piggly Wiggly
+    assets:checking                         $-115.48
+    expenses:groceries
+
+2011/01/13 Piggly Wiggly
+    assets:checking                         $-119.40
+    expenses:groceries
+
+2011/01/14 BP
+    assets:checking                          $-75.30
+    expenses:gas
+
+2011/01/15 me
+    income                                  $-106.01
+    assets:checking
+
+2011/01/18 Karts+
+    assets:checking                         $-465.48
+    expenses:fun
+
+2011/01/25 Safeway
+    assets:checking                         $-112.27
+    expenses:groceries
+
+2011/01/26 Shell
+    assets:checking                          $-74.80
+    expenses:gas
+
+2011/02/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2011/02/03 Scoops Lounge
+    assets:checking                         $-459.97
+    expenses:fun
+
+2011/02/05 Safeway
+    assets:checking                         $-116.20
+    expenses:groceries
+
+2011/02/06 Shell
+    assets:checking                          $-69.11
+    expenses:gas
+
+2011/02/12 me
+    income                                  $-106.07
+    assets:checking
+
+2011/02/14 Safeway
+    assets:checking                         $-105.66
+    expenses:groceries
+
+2011/02/16 Movies 8
+    assets:checking                         $-393.70
+    expenses:fun
+
+2011/02/18 Pilot
+    assets:checking                          $-73.82
+    expenses:gas
+
+2011/02/23 Safeway
+    assets:checking                         $-101.70
+    expenses:groceries
+
+2011/02/26 Shell
+    assets:checking                          $-79.44
+    expenses:gas
+
+2011/03/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2011/03/05 Piggly Wiggly
+    assets:checking                         $-109.28
+    expenses:groceries
+
+2011/03/09 BP
+    assets:checking                          $-81.01
+    expenses:gas
+
+2011/03/10 Scoops Lounge
+    assets:checking                         $-415.40
+    expenses:fun
+
+2011/03/12 me
+    income                                  $-106.12
+    assets:checking
+
+2011/03/16 Piggly Wiggly
+    assets:checking                         $-104.19
+    expenses:groceries
+
+2011/03/17 Shell
+    assets:checking                          $-78.40
+    expenses:gas
+
+2011/03/25 Harris Teeter
+    assets:checking                         $-111.86
+    expenses:groceries
+
+2011/03/26 Scoops Lounge
+    assets:checking                         $-413.70
+    expenses:fun
+
+2011/03/29 BP
+    assets:checking                          $-72.44
+    expenses:gas
+
+2011/04/01 Harris Teeter
+    assets:checking                         $-113.69
+    expenses:groceries
+
+2011/04/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2011/04/07 Pilot
+    assets:checking                          $-74.08
+    expenses:gas
+
+2011/04/09 me
+    income                                  $-106.17
+    assets:checking
+
+2011/04/12 Harris Teeter
+    assets:checking                         $-104.25
+    expenses:groceries
+
+2011/04/15 Movies 8
+    assets:checking                         $-470.87
+    expenses:fun
+
+2011/04/19 BP
+    assets:checking                          $-81.77
+    expenses:gas
+
+2011/04/24 Piggly Wiggly
+    assets:checking                         $-114.28
+    expenses:groceries
+
+2011/04/27 Shell
+    assets:checking                          $-70.53
+    expenses:gas
+
+2011/04/30 Karts+
+    assets:checking                         $-431.68
+    expenses:fun
+
+2011/05/01 Piggly Wiggly
+    assets:checking                         $-118.77
+    expenses:groceries
+
+2011/05/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2011/05/05 Shell
+    assets:checking                          $-70.59
+    expenses:gas
+
+2011/05/07 me
+    income                                  $-106.22
+    assets:checking
+
+2011/05/12 BP
+    assets:checking                          $-69.81
+    expenses:gas
+
+2011/05/12 Safeway
+    assets:checking                         $-105.77
+    expenses:groceries
+
+2011/05/23 BP
+    assets:checking                          $-74.65
+    expenses:gas
+
+2011/05/24 Safeway
+    assets:checking                         $-115.90
+    expenses:groceries
+
+2011/05/24 Scoops Lounge
+    assets:checking                         $-437.16
+    expenses:fun
+
+2011/05/31 BP
+    assets:checking                          $-80.12
+    expenses:gas
+
+2011/06/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2011/06/04 me
+    income                                  $-106.27
+    assets:checking
+
+2011/06/05 Harris Teeter
+    assets:checking                         $-115.64
+    expenses:groceries
+
+2011/06/09 BP
+    assets:checking                          $-73.23
+    expenses:gas
+
+2011/06/16 Scoops Lounge
+    assets:checking                         $-396.07
+    expenses:fun
+
+2011/06/17 BP
+    assets:checking                          $-70.12
+    expenses:gas
+
+2011/06/17 Piggly Wiggly
+    assets:checking                         $-108.53
+    expenses:groceries
+
+2011/06/24 Harris Teeter
+    assets:checking                         $-121.84
+    expenses:groceries
+
+2011/06/25 Pilot
+    assets:checking                          $-83.25
+    expenses:gas
+
+2011/07/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2011/07/02 me
+    income                                  $-106.32
+    assets:checking
+
+2011/07/02 Shell
+    assets:checking                          $-81.17
+    expenses:gas
+
+2011/07/03 Movies 8
+    assets:checking                         $-446.05
+    expenses:fun
+
+2011/07/05 Harris Teeter
+    assets:checking                         $-122.67
+    expenses:groceries
+
+2011/07/12 Pilot
+    assets:checking                          $-83.31
+    expenses:gas
+
+2011/07/15 Safeway
+    assets:checking                         $-110.98
+    expenses:groceries
+
+2011/07/20 Shell
+    assets:checking                          $-77.74
+    expenses:gas
+
+2011/07/25 Karts+
+    assets:checking                         $-391.75
+    expenses:fun
+
+2011/07/26 Harris Teeter
+    assets:checking                         $-114.42
+    expenses:groceries
+
+2011/07/29 Pilot
+    assets:checking                          $-70.03
+    expenses:gas
+
+2011/07/30 me
+    income                                  $-106.38
+    assets:checking
+
+2011/08/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2011/08/06 Safeway
+    assets:checking                         $-103.83
+    expenses:groceries
+
+2011/08/07 Pilot
+    assets:checking                          $-70.70
+    expenses:gas
+
+2011/08/09 Karts+
+    assets:checking                         $-383.77
+    expenses:fun
+
+2011/08/14 Harris Teeter
+    assets:checking                         $-116.41
+    expenses:groceries
+
+2011/08/18 Shell
+    assets:checking                          $-69.51
+    expenses:gas
+
+2011/08/22 Harris Teeter
+    assets:checking                         $-104.14
+    expenses:groceries
+
+2011/08/27 me
+    income                                  $-106.43
+    assets:checking
+
+2011/08/28 Shell
+    assets:checking                          $-83.62
+    expenses:gas
+
+2011/08/30 Scoops Lounge
+    assets:checking                         $-399.23
+    expenses:fun
+
+2011/09/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2011/09/02 Safeway
+    assets:checking                         $-106.35
+    expenses:groceries
+
+2011/09/08 BP
+    assets:checking                          $-78.70
+    expenses:gas
+
+2011/09/09 Harris Teeter
+    assets:checking                         $-107.15
+    expenses:groceries
+
+2011/09/20 Pilot
+    assets:checking                          $-69.93
+    expenses:gas
+
+2011/09/20 Piggly Wiggly
+    assets:checking                         $-112.01
+    expenses:groceries
+
+2011/09/23 Scoops Lounge
+    assets:checking                         $-382.10
+    expenses:fun
+
+2011/09/24 me
+    income                                  $-106.48
+    assets:checking
+
+2011/10/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2011/10/02 Pilot
+    assets:checking                          $-80.54
+    expenses:gas
+
+2011/10/02 Harris Teeter
+    assets:checking                         $-113.86
+    expenses:groceries
+
+2011/10/08 Karts+
+    assets:checking                         $-400.32
+    expenses:fun
+
+2011/10/12 Harris Teeter
+    assets:checking                         $-123.32
+    expenses:groceries
+
+2011/10/14 Shell
+    assets:checking                          $-69.42
+    expenses:gas
+
+2011/10/22 me
+    income                                  $-106.54
+    assets:checking
+
+2011/10/22 Piggly Wiggly
+    assets:checking                         $-112.62
+    expenses:groceries
+
+2011/10/23 Pilot
+    assets:checking                          $-79.12
+    expenses:gas
+
+2011/10/27 Scoops Lounge
+    assets:checking                         $-452.94
+    expenses:fun
+
+2011/10/29 Safeway
+    assets:checking                         $-124.56
+    expenses:groceries
+
+2011/11/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2011/11/03 BP
+    assets:checking                          $-76.25
+    expenses:gas
+
+2011/11/08 Piggly Wiggly
+    assets:checking                         $-120.43
+    expenses:groceries
+
+2011/11/14 Pilot
+    assets:checking                          $-75.59
+    expenses:gas
+
+2011/11/14 Movies 8
+    assets:checking                         $-422.26
+    expenses:fun
+
+2011/11/19 me
+    income                                  $-106.59
+    assets:checking
+
+2011/11/19 Piggly Wiggly
+    assets:checking                         $-125.88
+    expenses:groceries
+
+2011/11/26 Pilot
+    assets:checking                          $-78.99
+    expenses:gas
+
+2011/11/29 Safeway
+    assets:checking                         $-117.15
+    expenses:groceries
+
+2011/12/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2011/12/03 Karts+
+    assets:checking                         $-381.84
+    expenses:fun
+
+2011/12/04 Shell
+    assets:checking                          $-81.10
+    expenses:gas
+
+2011/12/09 Piggly Wiggly
+    assets:checking                         $-121.10
+    expenses:groceries
+
+2011/12/14 BP
+    assets:checking                          $-80.68
+    expenses:gas
+
+2011/12/17 me
+    income                                  $-106.64
+    assets:checking
+
+2011/12/17 Safeway
+    assets:checking                         $-117.27
+    expenses:groceries
+
+2011/12/24 Shell
+    assets:checking                          $-83.29
+    expenses:gas
+
+2011/12/24 Movies 8
+    assets:checking                         $-435.59
+    expenses:fun
+
+2011/12/29 Harris Teeter
+    assets:checking                         $-122.95
+    expenses:groceries
+
+2012/01/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2012/01/03 BP
+    assets:checking                          $-74.30
+    expenses:gas
+
+2012/01/07 Piggly Wiggly
+    assets:checking                         $-117.57
+    expenses:groceries
+
+2012/01/10 BP
+    assets:checking                          $-75.02
+    expenses:gas
+
+2012/01/14 me
+    income                                  $-106.70
+    assets:checking
+
+2012/01/14 Piggly Wiggly
+    assets:checking                         $-123.90
+    expenses:groceries
+
+2012/01/17 Scoops Lounge
+    assets:checking                         $-426.89
+    expenses:fun
+
+2012/01/20 Pilot
+    assets:checking                          $-73.91
+    expenses:gas
+
+2012/01/25 Harris Teeter
+    assets:checking                         $-119.09
+    expenses:groceries
+
+2012/02/01 Shell
+    assets:checking                          $-75.93
+    expenses:gas
+
+2012/02/01 Karts+
+    assets:checking                         $-436.32
+    expenses:fun
+
+2012/02/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2012/02/03 Piggly Wiggly
+    assets:checking                         $-119.90
+    expenses:groceries
+
+2012/02/11 me
+    income                                  $-106.75
+    assets:checking
+
+2012/02/12 Shell
+    assets:checking                          $-69.71
+    expenses:gas
+
+2012/02/14 Piggly Wiggly
+    assets:checking                         $-114.93
+    expenses:groceries
+
+2012/02/15 Movies 8
+    assets:checking                         $-402.54
+    expenses:fun
+
+2012/02/20 Pilot
+    assets:checking                          $-82.12
+    expenses:gas
+
+2012/02/26 Harris Teeter
+    assets:checking                         $-116.45
+    expenses:groceries
+
+2012/02/28 Pilot
+    assets:checking                          $-69.48
+    expenses:gas
+
+2012/03/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2012/03/05 Safeway
+    assets:checking                         $-120.23
+    expenses:groceries
+
+2012/03/10 me
+    income                                  $-106.80
+    assets:checking
+
+2012/03/10 Pilot
+    assets:checking                          $-83.81
+    expenses:gas
+
+2012/03/10 Karts+
+    assets:checking                         $-423.62
+    expenses:fun
+
+2012/03/12 Safeway
+    assets:checking                         $-117.75
+    expenses:groceries
+
+2012/03/17 BP
+    assets:checking                          $-80.12
+    expenses:gas
+
+2012/03/20 Harris Teeter
+    assets:checking                         $-109.90
+    expenses:groceries
+
+2012/03/23 Movies 8
+    assets:checking                         $-381.95
+    expenses:fun
+
+2012/03/28 Piggly Wiggly
+    assets:checking                         $-128.01
+    expenses:groceries
+
+2012/03/29 Shell
+    assets:checking                          $-69.34
+    expenses:gas
+
+2012/04/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2012/04/07 me
+    income                                  $-106.86
+    assets:checking
+
+2012/04/08 Piggly Wiggly
+    assets:checking                         $-120.15
+    expenses:groceries
+
+2012/04/09 Pilot
+    assets:checking                          $-80.12
+    expenses:gas
+
+2012/04/12 Scoops Lounge
+    assets:checking                         $-378.08
+    expenses:fun
+
+2012/04/17 Safeway
+    assets:checking                         $-117.45
+    expenses:groceries
+
+2012/04/21 BP
+    assets:checking                          $-75.42
+    expenses:gas
+
+2012/04/24 Piggly Wiggly
+    assets:checking                         $-129.14
+    expenses:groceries
+
+2012/04/29 BP
+    assets:checking                          $-73.65
+    expenses:gas
+
+2012/05/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2012/05/03 Harris Teeter
+    assets:checking                         $-118.08
+    expenses:groceries
+
+2012/05/05 me
+    income                                  $-106.91
+    assets:checking
+
+2012/05/05 Scoops Lounge
+    assets:checking                         $-389.05
+    expenses:fun
+
+2012/05/07 BP
+    assets:checking                          $-81.10
+    expenses:gas
+
+2012/05/14 Safeway
+    assets:checking                         $-108.04
+    expenses:groceries
+
+2012/05/19 BP
+    assets:checking                          $-80.71
+    expenses:gas
+
+2012/05/21 Harris Teeter
+    assets:checking                         $-130.04
+    expenses:groceries
+
+2012/05/24 Karts+
+    assets:checking                         $-389.65
+    expenses:fun
+
+2012/05/30 BP
+    assets:checking                          $-69.63
+    expenses:gas
+
+2012/06/01 Safeway
+    assets:checking                         $-116.47
+    expenses:groceries
+
+2012/06/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2012/06/02 me
+    income                                  $-106.97
+    assets:checking
+
+2012/06/11 Shell
+    assets:checking                          $-74.26
+    expenses:gas
+
+2012/06/12 Movies 8
+    assets:checking                         $-376.05
+    expenses:fun
+
+2012/06/13 Harris Teeter
+    assets:checking                         $-117.77
+    expenses:groceries
+
+2012/06/20 Pilot
+    assets:checking                          $-80.53
+    expenses:gas
+
+2012/06/25 Safeway
+    assets:checking                         $-115.02
+    expenses:groceries
+
+2012/06/25 Movies 8
+    assets:checking                         $-383.33
+    expenses:fun
+
+2012/06/30 me
+    income                                  $-107.02
+    assets:checking
+
+2012/07/01 Sound Living
+    assets:checking                         $-700.00
+    expenses:rent
+
+2012/07/02 Pilot
+    assets:checking                          $-70.78
+    expenses:gas
+
+2012/07/06 Safeway
+    assets:checking                         $-115.45
+    expenses:groceries
+
+2012/07/13 Shell
+    assets:checking                          $-83.50
+    expenses:gas
+
+2012/07/15 Movies 8
+    assets:checking                         $-407.84
+    expenses:fun
+
+2012/07/16 Harris Teeter
+    assets:checking                         $-131.52
+    expenses:groceries
+
+2012/07/23 Safeway
+    assets:checking                         $-132.58
+    expenses:groceries
+
+2012/07/24 BP
+    assets:checking                          $-71.97
+    expenses:gas
+
+2012/07/28 me
+    income                                  $-107.08
+    assets:checking
+
+2012/08/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2012/08/02 Shell
+    assets:checking                          $-80.13
+    expenses:gas
+
+2012/08/03 Piggly Wiggly
+    assets:checking                         $-121.83
+    expenses:groceries
+
+2012/08/03 Karts+
+    assets:checking                         $-384.53
+    expenses:fun
+
+2012/08/09 Pilot
+    assets:checking                          $-71.92
+    expenses:gas
+
+2012/08/10 Safeway
+    assets:checking                         $-132.65
+    expenses:groceries
+
+2012/08/19 BP
+    assets:checking                          $-76.18
+    expenses:gas
+
+2012/08/21 Piggly Wiggly
+    assets:checking                         $-113.88
+    expenses:groceries
+
+2012/08/21 Karts+
+    assets:checking                         $-406.13
+    expenses:fun
+
+2012/08/25 me
+    income                                  $-107.14
+    assets:checking
+
+2012/08/28 BP
+    assets:checking                          $-77.56
+    expenses:gas
+
+2012/08/29 Piggly Wiggly
+    assets:checking                         $-110.85
+    expenses:groceries
+
+2012/09/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2012/09/05 Karts+
+    assets:checking                         $-373.68
+    expenses:fun
+
+2012/09/06 Shell
+    assets:checking                          $-82.53
+    expenses:gas
+
+2012/09/09 Harris Teeter
+    assets:checking                         $-111.46
+    expenses:groceries
+
+2012/09/15 Pilot
+    assets:checking                          $-74.09
+    expenses:gas
+
+2012/09/20 Harris Teeter
+    assets:checking                         $-121.51
+    expenses:groceries
+
+2012/09/22 me
+    income                                  $-107.19
+    assets:checking
+
+2012/09/22 Shell
+    assets:checking                          $-69.59
+    expenses:gas
+
+2012/09/28 Movies 8
+    assets:checking                         $-420.69
+    expenses:fun
+
+2012/09/29 Harris Teeter
+    assets:checking                         $-117.38
+    expenses:groceries
+
+2012/10/01 Pilot
+    assets:checking                          $-75.23
+    expenses:gas
+
+2012/10/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2012/10/09 Pilot
+    assets:checking                          $-75.77
+    expenses:gas
+
+2012/10/10 Piggly Wiggly
+    assets:checking                         $-134.49
+    expenses:groceries
+
+2012/10/17 Safeway
+    assets:checking                         $-133.61
+    expenses:groceries
+
+2012/10/18 Scoops Lounge
+    assets:checking                         $-396.80
+    expenses:fun
+
+2012/10/20 me
+    income                                  $-107.25
+    assets:checking
+
+2012/10/21 Shell
+    assets:checking                          $-68.88
+    expenses:gas
+
+2012/10/26 Harris Teeter
+    assets:checking                         $-119.85
+    expenses:groceries
+
+2012/10/28 Pilot
+    assets:checking                          $-73.67
+    expenses:gas
+
+2012/11/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2012/11/02 Harris Teeter
+    assets:checking                         $-114.58
+    expenses:groceries
+
+2012/11/04 Pilot
+    assets:checking                          $-73.51
+    expenses:gas
+
+2012/11/04 Scoops Lounge
+    assets:checking                         $-354.10
+    expenses:fun
+
+2012/11/10 Safeway
+    assets:checking                         $-115.46
+    expenses:groceries
+
+2012/11/16 Shell
+    assets:checking                          $-75.29
+    expenses:gas
+
+2012/11/17 me
+    income                                  $-107.30
+    assets:checking
+
+2012/11/17 Harris Teeter
+    assets:checking                         $-123.37
+    expenses:groceries
+
+2012/11/24 Piggly Wiggly
+    assets:checking                         $-114.36
+    expenses:groceries
+
+2012/11/28 Pilot
+    assets:checking                          $-77.20
+    expenses:gas
+
+2012/11/28 Karts+
+    assets:checking                         $-373.14
+    expenses:fun
+
+2012/12/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2012/12/03 Safeway
+    assets:checking                         $-115.60
+    expenses:groceries
+
+2012/12/08 Pilot
+    assets:checking                          $-78.12
+    expenses:gas
+
+2012/12/12 Karts+
+    assets:checking                         $-399.70
+    expenses:fun
+
+2012/12/14 Harris Teeter
+    assets:checking                         $-113.59
+    expenses:groceries
+
+2012/12/15 me
+    income                                  $-107.36
+    assets:checking
+
+2012/12/16 Pilot
+    assets:checking                          $-73.80
+    expenses:gas
+
+2012/12/24 Shell
+    assets:checking                          $-69.18
+    expenses:gas
+
+2012/12/24 Harris Teeter
+    assets:checking                         $-113.29
+    expenses:groceries
+
+2012/12/28 Movies 8
+    assets:checking                         $-360.72
+    expenses:fun
+
+2013/01/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2013/01/02 Pilot
+    assets:checking                          $-79.59
+    expenses:gas
+
+2013/01/04 Harris Teeter
+    assets:checking                         $-121.71
+    expenses:groceries
+
+2013/01/11 BP
+    assets:checking                          $-80.54
+    expenses:gas
+
+2013/01/12 me
+    income                                  $-107.42
+    assets:checking
+
+2013/01/14 Scoops Lounge
+    assets:checking                         $-352.89
+    expenses:fun
+
+2013/01/16 Harris Teeter
+    assets:checking                         $-130.21
+    expenses:groceries
+
+2013/01/23 BP
+    assets:checking                          $-81.88
+    expenses:gas
+
+2013/01/25 Harris Teeter
+    assets:checking                         $-127.32
+    expenses:groceries
+
+2013/01/31 BP
+    assets:checking                          $-75.30
+    expenses:gas
+
+2013/02/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2013/02/04 Scoops Lounge
+    assets:checking                         $-345.61
+    expenses:fun
+
+2013/02/06 Piggly Wiggly
+    assets:checking                         $-119.05
+    expenses:groceries
+
+2013/02/08 BP
+    assets:checking                          $-75.04
+    expenses:gas
+
+2013/02/09 me
+    income                                  $-107.48
+    assets:checking
+
+2013/02/16 Pilot
+    assets:checking                          $-68.32
+    expenses:gas
+
+2013/02/17 Movies 8
+    assets:checking                         $-367.60
+    expenses:fun
+
+2013/02/18 Safeway
+    assets:checking                         $-135.62
+    expenses:groceries
+
+2013/02/27 Harris Teeter
+    assets:checking                         $-134.74
+    expenses:groceries
+
+2013/02/28 Pilot
+    assets:checking                          $-80.90
+    expenses:gas
+
+2013/03/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2013/03/06 Harris Teeter
+    assets:checking                         $-134.56
+    expenses:groceries
+
+2013/03/08 BP
+    assets:checking                          $-78.66
+    expenses:gas
+
+2013/03/09 me
+    income                                  $-107.53
+    assets:checking
+
+2013/03/09 Karts+
+    assets:checking                         $-354.18
+    expenses:fun
+
+2013/03/18 Safeway
+    assets:checking                         $-121.04
+    expenses:groceries
+
+2013/03/20 BP
+    assets:checking                          $-81.04
+    expenses:gas
+
+2013/03/27 Harris Teeter
+    assets:checking                         $-133.83
+    expenses:groceries
+
+2013/03/27 Karts+
+    assets:checking                         $-348.83
+    expenses:fun
+
+2013/03/29 Shell
+    assets:checking                          $-69.82
+    expenses:gas
+
+2013/04/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2013/04/04 Harris Teeter
+    assets:checking                         $-128.15
+    expenses:groceries
+
+2013/04/06 me
+    income                                  $-107.59
+    assets:checking
+
+2013/04/07 BP
+    assets:checking                          $-73.32
+    expenses:gas
+
+2013/04/11 Piggly Wiggly
+    assets:checking                         $-133.97
+    expenses:groceries
+
+2013/04/15 Pilot
+    assets:checking                          $-79.97
+    expenses:gas
+
+2013/04/20 Scoops Lounge
+    assets:checking                         $-387.22
+    expenses:fun
+
+2013/04/22 Safeway
+    assets:checking                         $-119.31
+    expenses:groceries
+
+2013/04/24 Shell
+    assets:checking                          $-71.53
+    expenses:gas
+
+2013/05/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2013/05/03 Safeway
+    assets:checking                         $-133.37
+    expenses:groceries
+
+2013/05/04 me
+    income                                  $-107.65
+    assets:checking
+
+2013/05/04 Pilot
+    assets:checking                          $-72.24
+    expenses:gas
+
+2013/05/05 Scoops Lounge
+    assets:checking                         $-373.70
+    expenses:fun
+
+2013/05/13 Pilot
+    assets:checking                          $-75.84
+    expenses:gas
+
+2013/05/13 Piggly Wiggly
+    assets:checking                         $-122.34
+    expenses:groceries
+
+2013/05/19 Scoops Lounge
+    assets:checking                         $-360.35
+    expenses:fun
+
+2013/05/25 BP
+    assets:checking                          $-78.33
+    expenses:gas
+
+2013/05/25 Safeway
+    assets:checking                         $-135.88
+    expenses:groceries
+
+2013/06/01 me
+    income                                  $-107.71
+    assets:checking
+
+2013/06/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2013/06/02 BP
+    assets:checking                          $-78.26
+    expenses:gas
+
+2013/06/04 Harris Teeter
+    assets:checking                         $-132.91
+    expenses:groceries
+
+2013/06/05 Movies 8
+    assets:checking                         $-336.69
+    expenses:fun
+
+2013/06/10 BP
+    assets:checking                          $-76.92
+    expenses:gas
+
+2013/06/16 Piggly Wiggly
+    assets:checking                         $-121.34
+    expenses:groceries
+
+2013/06/20 Shell
+    assets:checking                          $-68.42
+    expenses:gas
+
+2013/06/24 Movies 8
+    assets:checking                         $-323.77
+    expenses:fun
+
+2013/06/25 Piggly Wiggly
+    assets:checking                         $-115.48
+    expenses:groceries
+
+2013/06/29 me
+    income                                  $-107.77
+    assets:checking
+
+2013/06/30 Pilot
+    assets:checking                          $-81.69
+    expenses:gas
+
+2013/07/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2013/07/06 Piggly Wiggly
+    assets:checking                         $-134.63
+    expenses:groceries
+
+2013/07/10 Pilot
+    assets:checking                          $-81.14
+    expenses:gas
+
+2013/07/13 Movies 8
+    assets:checking                         $-353.18
+    expenses:fun
+
+2013/07/14 Safeway
+    assets:checking                         $-133.45
+    expenses:groceries
+
+2013/07/20 BP
+    assets:checking                          $-82.27
+    expenses:gas
+
+2013/07/23 Harris Teeter
+    assets:checking                         $-138.59
+    expenses:groceries
+
+2013/07/27 me
+    income                                  $-107.83
+    assets:checking
+
+2013/07/30 Pilot
+    assets:checking                          $-82.31
+    expenses:gas
+
+2013/07/30 Piggly Wiggly
+    assets:checking                         $-116.47
+    expenses:groceries
+
+2013/07/30 Movies 8
+    assets:checking                         $-362.63
+    expenses:fun
+
+2013/08/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2013/08/09 Shell
+    assets:checking                          $-81.22
+    expenses:gas
+
+2013/08/10 Piggly Wiggly
+    assets:checking                         $-135.57
+    expenses:groceries
+
+2013/08/17 Shell
+    assets:checking                          $-69.40
+    expenses:gas
+
+2013/08/18 Harris Teeter
+    assets:checking                         $-134.10
+    expenses:groceries
+
+2013/08/18 Movies 8
+    assets:checking                         $-315.85
+    expenses:fun
+
+2013/08/24 me
+    income                                  $-107.89
+    assets:checking
+
+2013/08/25 Pilot
+    assets:checking                          $-81.67
+    expenses:gas
+
+2013/08/29 Piggly Wiggly
+    assets:checking                         $-131.99
+    expenses:groceries
+
+2013/09/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2013/09/02 Scoops Lounge
+    assets:checking                         $-340.36
+    expenses:fun
+
+2013/09/05 Pilot
+    assets:checking                          $-74.97
+    expenses:gas
+
+2013/09/10 Safeway
+    assets:checking                         $-121.57
+    expenses:groceries
+
+2013/09/13 Pilot
+    assets:checking                          $-69.79
+    expenses:gas
+
+2013/09/17 Safeway
+    assets:checking                         $-140.54
+    expenses:groceries
+
+2013/09/21 me
+    income                                  $-107.95
+    assets:checking
+
+2013/09/21 Pilot
+    assets:checking                          $-80.14
+    expenses:gas
+
+2013/09/23 Karts+
+    assets:checking                         $-330.94
+    expenses:fun
+
+2013/09/24 Safeway
+    assets:checking                         $-141.39
+    expenses:groceries
+
+2013/09/28 BP
+    assets:checking                          $-79.14
+    expenses:gas
+
+2013/10/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2013/10/02 Safeway
+    assets:checking                         $-142.15
+    expenses:groceries
+
+2013/10/07 Scoops Lounge
+    assets:checking                         $-324.25
+    expenses:fun
+
+2013/10/08 BP
+    assets:checking                          $-79.42
+    expenses:gas
+
+2013/10/13 Piggly Wiggly
+    assets:checking                         $-138.23
+    expenses:groceries
+
+2013/10/19 me
+    income                                  $-108.01
+    assets:checking
+
+2013/10/20 Shell
+    assets:checking                          $-67.01
+    expenses:gas
+
+2013/10/20 Harris Teeter
+    assets:checking                         $-126.41
+    expenses:groceries
+
+2013/10/26 Scoops Lounge
+    assets:checking                         $-347.53
+    expenses:fun
+
+2013/10/29 BP
+    assets:checking                          $-80.14
+    expenses:gas
+
+2013/10/29 Piggly Wiggly
+    assets:checking                         $-136.55
+    expenses:groceries
+
+2013/11/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2013/11/09 Safeway
+    assets:checking                         $-127.86
+    expenses:groceries
+
+2013/11/10 BP
+    assets:checking                          $-71.78
+    expenses:gas
+
+2013/11/15 Karts+
+    assets:checking                         $-344.98
+    expenses:fun
+
+2013/11/16 me
+    income                                  $-108.07
+    assets:checking
+
+2013/11/18 BP
+    assets:checking                          $-74.21
+    expenses:gas
+
+2013/11/20 Harris Teeter
+    assets:checking                         $-139.98
+    expenses:groceries
+
+2013/11/26 Pilot
+    assets:checking                          $-71.61
+    expenses:gas
+
+2013/12/01 Movies 8
+    assets:checking                         $-342.47
+    expenses:fun
+
+2013/12/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2013/12/02 Piggly Wiggly
+    assets:checking                         $-144.07
+    expenses:groceries
+
+2013/12/04 Pilot
+    assets:checking                          $-72.83
+    expenses:gas
+
+2013/12/12 BP
+    assets:checking                          $-74.80
+    expenses:gas
+
+2013/12/14 me
+    income                                  $-108.13
+    assets:checking
+
+2013/12/14 Piggly Wiggly
+    assets:checking                         $-121.01
+    expenses:groceries
+
+2013/12/19 Shell
+    assets:checking                          $-78.27
+    expenses:gas
+
+2013/12/21 Safeway
+    assets:checking                         $-118.58
+    expenses:groceries
+
+2013/12/23 Karts+
+    assets:checking                         $-353.34
+    expenses:fun
+
+2013/12/27 BP
+    assets:checking                          $-81.09
+    expenses:gas
+
+2013/12/29 Safeway
+    assets:checking                         $-123.67
+    expenses:groceries
+
+2014/01/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2014/01/07 Pilot
+    assets:checking                          $-72.10
+    expenses:gas
+
+2014/01/08 Harris Teeter
+    assets:checking                         $-144.92
+    expenses:groceries
+
+2014/01/11 me
+    income                                  $-108.19
+    assets:checking
+
+2014/01/11 Scoops Lounge
+    assets:checking                         $-321.58
+    expenses:fun
+
+2014/01/15 Shell
+    assets:checking                          $-76.29
+    expenses:gas
+
+2014/01/16 Piggly Wiggly
+    assets:checking                         $-139.28
+    expenses:groceries
+
+2014/01/22 Pilot
+    assets:checking                          $-80.51
+    expenses:gas
+
+2014/01/25 Harris Teeter
+    assets:checking                         $-120.84
+    expenses:groceries
+
+2014/01/29 Shell
+    assets:checking                          $-68.13
+    expenses:gas
+
+2014/01/30 Scoops Lounge
+    assets:checking                         $-311.68
+    expenses:fun
+
+2014/02/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2014/02/03 Harris Teeter
+    assets:checking                         $-127.48
+    expenses:groceries
+
+2014/02/06 Shell
+    assets:checking                          $-77.43
+    expenses:gas
+
+2014/02/08 me
+    income                                  $-108.25
+    assets:checking
+
+2014/02/14 Pilot
+    assets:checking                          $-73.57
+    expenses:gas
+
+2014/02/15 Piggly Wiggly
+    assets:checking                         $-123.81
+    expenses:groceries
+
+2014/02/20 Scoops Lounge
+    assets:checking                         $-341.15
+    expenses:fun
+
+2014/02/23 Harris Teeter
+    assets:checking                         $-127.87
+    expenses:groceries
+
+2014/02/24 Shell
+    assets:checking                          $-71.38
+    expenses:gas
+
+2014/03/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2014/03/03 Safeway
+    assets:checking                         $-141.40
+    expenses:groceries
+
+2014/03/06 Pilot
+    assets:checking                          $-72.52
+    expenses:gas
+
+2014/03/07 Karts+
+    assets:checking                         $-303.66
+    expenses:fun
+
+2014/03/08 me
+    income                                  $-108.31
+    assets:checking
+
+2014/03/11 Harris Teeter
+    assets:checking                         $-144.29
+    expenses:groceries
+
+2014/03/18 Pilot
+    assets:checking                          $-74.74
+    expenses:gas
+
+2014/03/20 Scoops Lounge
+    assets:checking                         $-315.41
+    expenses:fun
+
+2014/03/23 Harris Teeter
+    assets:checking                         $-135.11
+    expenses:groceries
+
+2014/03/26 Pilot
+    assets:checking                          $-75.17
+    expenses:gas
+
+2014/04/01 Harris Teeter
+    assets:checking                         $-141.86
+    expenses:groceries
+
+2014/04/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2014/04/03 BP
+    assets:checking                          $-78.74
+    expenses:gas
+
+2014/04/04 Movies 8
+    assets:checking                         $-337.04
+    expenses:fun
+
+2014/04/05 me
+    income                                  $-108.37
+    assets:checking
+
+2014/04/08 Safeway
+    assets:checking                         $-139.95
+    expenses:groceries
+
+2014/04/10 BP
+    assets:checking                          $-74.37
+    expenses:gas
+
+2014/04/17 Movies 8
+    assets:checking                         $-285.01
+    expenses:fun
+
+2014/04/19 Piggly Wiggly
+    assets:checking                         $-123.09
+    expenses:groceries
+
+2014/04/21 Shell
+    assets:checking                          $-67.30
+    expenses:gas
+
+2014/04/28 Harris Teeter
+    assets:checking                         $-131.02
+    expenses:groceries
+
+2014/04/29 Pilot
+    assets:checking                          $-69.83
+    expenses:gas
+
+2014/05/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2014/05/03 me
+    income                                  $-108.43
+    assets:checking
+
+2014/05/06 BP
+    assets:checking                          $-77.59
+    expenses:gas
+
+2014/05/09 Scoops Lounge
+    assets:checking                         $-282.40
+    expenses:fun
+
+2014/05/10 Safeway
+    assets:checking                         $-136.23
+    expenses:groceries
+
+2014/05/18 BP
+    assets:checking                          $-69.39
+    expenses:gas
+
+2014/05/19 Piggly Wiggly
+    assets:checking                         $-140.21
+    expenses:groceries
+
+2014/05/26 Movies 8
+    assets:checking                         $-303.08
+    expenses:fun
+
+2014/05/27 BP
+    assets:checking                          $-66.93
+    expenses:gas
+
+2014/05/27 Piggly Wiggly
+    assets:checking                         $-140.83
+    expenses:groceries
+
+2014/05/31 me
+    income                                  $-108.50
+    assets:checking
+
+2014/06/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2014/06/03 BP
+    assets:checking                          $-66.10
+    expenses:gas
+
+2014/06/06 Safeway
+    assets:checking                         $-122.83
+    expenses:groceries
+
+2014/06/13 Shell
+    assets:checking                          $-78.21
+    expenses:gas
+
+2014/06/13 Piggly Wiggly
+    assets:checking                         $-134.33
+    expenses:groceries
+
+2014/06/17 Karts+
+    assets:checking                         $-293.90
+    expenses:fun
+
+2014/06/21 Harris Teeter
+    assets:checking                         $-131.44
+    expenses:groceries
+
+2014/06/22 Pilot
+    assets:checking                          $-74.58
+    expenses:gas
+
+2014/06/28 me
+    income                                  $-108.56
+    assets:checking
+
+2014/06/29 Piggly Wiggly
+    assets:checking                         $-141.23
+    expenses:groceries
+
+2014/07/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2014/07/03 BP
+    assets:checking                          $-67.28
+    expenses:gas
+
+2014/07/06 Karts+
+    assets:checking                         $-297.80
+    expenses:fun
+
+2014/07/07 Piggly Wiggly
+    assets:checking                         $-144.20
+    expenses:groceries
+
+2014/07/11 Pilot
+    assets:checking                          $-69.67
+    expenses:gas
+
+2014/07/19 Pilot
+    assets:checking                          $-75.38
+    expenses:gas
+
+2014/07/19 Piggly Wiggly
+    assets:checking                         $-124.15
+    expenses:groceries
+
+2014/07/26 me
+    income                                  $-108.62
+    assets:checking
+
+2014/07/26 Harris Teeter
+    assets:checking                         $-150.22
+    expenses:groceries
+
+2014/07/26 Scoops Lounge
+    assets:checking                         $-260.85
+    expenses:fun
+
+2014/07/27 Pilot
+    assets:checking                          $-70.58
+    expenses:gas
+
+2014/08/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2014/08/03 Harris Teeter
+    assets:checking                         $-145.10
+    expenses:groceries
+
+2014/08/04 Pilot
+    assets:checking                          $-77.30
+    expenses:gas
+
+2014/08/11 Harris Teeter
+    assets:checking                         $-149.03
+    expenses:groceries
+
+2014/08/12 BP
+    assets:checking                          $-68.84
+    expenses:gas
+
+2014/08/15 Movies 8
+    assets:checking                         $-268.56
+    expenses:fun
+
+2014/08/18 Safeway
+    assets:checking                         $-133.64
+    expenses:groceries
+
+2014/08/21 BP
+    assets:checking                          $-73.38
+    expenses:gas
+
+2014/08/23 me
+    income                                  $-108.68
+    assets:checking
+
+2014/08/26 Safeway
+    assets:checking                         $-149.83
+    expenses:groceries
+
+2014/08/28 Movies 8
+    assets:checking                         $-303.41
+    expenses:fun
+
+2014/08/30 Shell
+    assets:checking                          $-78.28
+    expenses:gas
+
+2014/09/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2014/09/02 Safeway
+    assets:checking                         $-141.52
+    expenses:groceries
+
+2014/09/08 BP
+    assets:checking                          $-76.71
+    expenses:gas
+
+2014/09/11 Karts+
+    assets:checking                         $-257.42
+    expenses:fun
+
+2014/09/14 Safeway
+    assets:checking                         $-125.55
+    expenses:groceries
+
+2014/09/19 BP
+    assets:checking                          $-67.51
+    expenses:gas
+
+2014/09/20 me
+    income                                  $-108.75
+    assets:checking
+
+2014/09/26 Piggly Wiggly
+    assets:checking                         $-124.48
+    expenses:groceries
+
+2014/09/27 Movies 8
+    assets:checking                         $-280.98
+    expenses:fun
+
+2014/10/01 BP
+    assets:checking                          $-77.28
+    expenses:gas
+
+2014/10/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2014/10/04 Harris Teeter
+    assets:checking                         $-125.56
+    expenses:groceries
+
+2014/10/12 Safeway
+    assets:checking                         $-151.59
+    expenses:groceries
+
+2014/10/13 Shell
+    assets:checking                          $-65.26
+    expenses:gas
+
+2014/10/18 me
+    income                                  $-108.81
+    assets:checking
+
+2014/10/20 Shell
+    assets:checking                          $-65.73
+    expenses:gas
+
+2014/10/21 Scoops Lounge
+    assets:checking                         $-270.30
+    expenses:fun
+
+2014/10/23 Harris Teeter
+    assets:checking                         $-127.96
+    expenses:groceries
+
+2014/10/28 BP
+    assets:checking                          $-72.53
+    expenses:gas
+
+2014/10/31 Piggly Wiggly
+    assets:checking                         $-145.10
+    expenses:groceries
+
+2014/11/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2014/11/03 Scoops Lounge
+    assets:checking                         $-280.95
+    expenses:fun
+
+2014/11/09 Pilot
+    assets:checking                          $-63.60
+    expenses:gas
+
+2014/11/11 Harris Teeter
+    assets:checking                         $-140.82
+    expenses:groceries
+
+2014/11/15 me
+    income                                  $-108.88
+    assets:checking
+
+2014/11/17 Pilot
+    assets:checking                          $-74.84
+    expenses:gas
+
+2014/11/22 Scoops Lounge
+    assets:checking                         $-272.31
+    expenses:fun
+
+2014/11/23 Piggly Wiggly
+    assets:checking                         $-138.67
+    expenses:groceries
+
+2014/11/28 Shell
+    assets:checking                          $-67.66
+    expenses:gas
+
+2014/12/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2014/12/05 Harris Teeter
+    assets:checking                         $-145.27
+    expenses:groceries
+
+2014/12/06 Movies 8
+    assets:checking                         $-282.63
+    expenses:fun
+
+2014/12/07 BP
+    assets:checking                          $-71.58
+    expenses:gas
+
+2014/12/13 me
+    income                                  $-108.94
+    assets:checking
+
+2014/12/14 Harris Teeter
+    assets:checking                         $-150.81
+    expenses:groceries
+
+2014/12/18 Pilot
+    assets:checking                          $-68.71
+    expenses:gas
+
+2014/12/21 Scoops Lounge
+    assets:checking                         $-268.32
+    expenses:fun
+
+2014/12/22 Harris Teeter
+    assets:checking                         $-137.27
+    expenses:groceries
+
+2014/12/26 Pilot
+    assets:checking                          $-76.46
+    expenses:gas
+
+2015/01/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2015/01/03 Harris Teeter
+    assets:checking                         $-138.56
+    expenses:groceries
+
+2015/01/05 Shell
+    assets:checking                          $-66.12
+    expenses:gas
+
+2015/01/06 Scoops Lounge
+    assets:checking                         $-278.20
+    expenses:fun
+
+2015/01/10 me
+    income                                  $-109.00
+    assets:checking
+
+2015/01/10 Safeway
+    assets:checking                         $-131.19
+    expenses:groceries
+
+2015/01/14 Shell
+    assets:checking                          $-75.05
+    expenses:gas
+
+2015/01/22 Harris Teeter
+    assets:checking                         $-147.04
+    expenses:groceries
+
+2015/01/23 Shell
+    assets:checking                          $-68.98
+    expenses:gas
+
+2015/01/23 Karts+
+    assets:checking                         $-237.73
+    expenses:fun
+
+2015/01/29 Harris Teeter
+    assets:checking                         $-141.41
+    expenses:groceries
+
+2015/02/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2015/02/04 Shell
+    assets:checking                          $-72.92
+    expenses:gas
+
+2015/02/06 Harris Teeter
+    assets:checking                         $-154.62
+    expenses:groceries
+
+2015/02/07 me
+    income                                  $-109.07
+    assets:checking
+
+2015/02/09 Movies 8
+    assets:checking                         $-238.37
+    expenses:fun
+
+2015/02/13 Harris Teeter
+    assets:checking                         $-143.20
+    expenses:groceries
+
+2015/02/16 Shell
+    assets:checking                          $-72.78
+    expenses:gas
+
+2015/02/25 Safeway
+    assets:checking                         $-135.69
+    expenses:groceries
+
+2015/02/26 Shell
+    assets:checking                          $-71.07
+    expenses:gas
+
+2015/03/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2015/03/05 Movies 8
+    assets:checking                         $-237.84
+    expenses:fun
+
+2015/03/07 me
+    income                                  $-109.14
+    assets:checking
+
+2015/03/07 Shell
+    assets:checking                          $-74.05
+    expenses:gas
+
+2015/03/09 Safeway
+    assets:checking                         $-140.74
+    expenses:groceries
+
+2015/03/16 Shell
+    assets:checking                          $-66.45
+    expenses:gas
+
+2015/03/19 Piggly Wiggly
+    assets:checking                         $-146.91
+    expenses:groceries
+
+2015/03/24 Movies 8
+    assets:checking                         $-246.17
+    expenses:fun
+
+2015/03/27 BP
+    assets:checking                          $-65.82
+    expenses:gas
+
+2015/03/28 Piggly Wiggly
+    assets:checking                         $-138.88
+    expenses:groceries
+
+2015/04/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2015/04/04 me
+    income                                  $-109.20
+    assets:checking
+
+2015/04/05 Harris Teeter
+    assets:checking                         $-136.40
+    expenses:groceries
+
+2015/04/08 Shell
+    assets:checking                          $-69.35
+    expenses:gas
+
+2015/04/09 Karts+
+    assets:checking                         $-243.77
+    expenses:fun
+
+2015/04/17 Safeway
+    assets:checking                         $-139.54
+    expenses:groceries
+
+2015/04/19 Pilot
+    assets:checking                          $-72.77
+    expenses:gas
+
+2015/04/25 Safeway
+    assets:checking                         $-138.27
+    expenses:groceries
+
+2015/04/29 Shell
+    assets:checking                          $-64.20
+    expenses:gas
+
+2015/04/29 Scoops Lounge
+    assets:checking                         $-236.94
+    expenses:fun
+
+2015/05/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2015/05/02 me
+    income                                  $-109.27
+    assets:checking
+
+2015/05/06 Harris Teeter
+    assets:checking                         $-142.78
+    expenses:groceries
+
+2015/05/09 Shell
+    assets:checking                          $-63.06
+    expenses:gas
+
+2015/05/13 Piggly Wiggly
+    assets:checking                         $-156.57
+    expenses:groceries
+
+2015/05/18 Pilot
+    assets:checking                          $-68.83
+    expenses:gas
+
+2015/05/18 Scoops Lounge
+    assets:checking                         $-229.44
+    expenses:fun
+
+2015/05/22 Piggly Wiggly
+    assets:checking                         $-136.37
+    expenses:groceries
+
+2015/05/30 me
+    income                                  $-109.33
+    assets:checking
+
+2015/05/30 Shell
+    assets:checking                          $-67.64
+    expenses:gas
+
+2015/06/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2015/06/02 Safeway
+    assets:checking                         $-140.40
+    expenses:groceries
+
+2015/06/05 Movies 8
+    assets:checking                         $-213.46
+    expenses:fun
+
+2015/06/09 Shell
+    assets:checking                          $-71.77
+    expenses:gas
+
+2015/06/14 Safeway
+    assets:checking                         $-141.28
+    expenses:groceries
+
+2015/06/18 BP
+    assets:checking                          $-62.63
+    expenses:gas
+
+2015/06/25 BP
+    assets:checking                          $-64.87
+    expenses:gas
+
+2015/06/25 Safeway
+    assets:checking                         $-144.89
+    expenses:groceries
+
+2015/06/27 me
+    income                                  $-109.40
+    assets:checking
+
+2015/06/27 Karts+
+    assets:checking                         $-201.45
+    expenses:fun
+
+2015/07/01 Sound Living
+    assets:checking                        $-1500.00
+    expenses:rent
+
+2015/07/02 Piggly Wiggly
+    assets:checking                         $-158.35
+    expenses:groceries
+
+2015/07/04 BP
+    assets:checking                          $-65.53
+    expenses:gas
+
+2015/07/12 BP
+    assets:checking                          $-72.49
+    expenses:gas
+
+2015/07/13 Piggly Wiggly
+    assets:checking                         $-152.27
+    expenses:groceries
+
+2015/07/15 Karts+
+    assets:checking                         $-212.00
+    expenses:fun
+
+2015/07/20 Safeway
+    assets:checking                         $-134.58
+    expenses:groceries
+
+2015/07/21 Shell
+    assets:checking                          $-60.57
+    expenses:gas
+
+2015/07/25 me
+    income                                  $-109.47
+    assets:checking
+
+2015/07/27 Piggly Wiggly
+    assets:checking                         $-139.26
+    expenses:groceries

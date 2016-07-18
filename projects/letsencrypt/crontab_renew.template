@@ -1,0 +1,1 @@
+${LE_FREQ} root bash -c "renew &>> /tmp/log/letsencrypt/out.log"
