@@ -7,5 +7,7 @@ echo "Reloading ledger-rest"
 docker restart ledger-rest
 echo "Reloading budget-charts"
 docker kill --signal=HUP budget-charts
+echo "Reloading blog"
+docker kill --signal=HUP blog
 echo "Reloading gogs"
 docker restart gogs

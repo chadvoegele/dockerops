@@ -7,6 +7,7 @@ services:
       args:
         - DOMAIN=${DOMAIN}
         - GIT_DOMAIN=${GIT_DOMAIN}
+        - BLOG_DOMAIN=${BLOG_DOMAIN}
     restart: always
     ports:
       - "80:80"
@@ -18,10 +19,12 @@ services:
       - ledger-rest
       - budget-charts
       - gogs
+      - blog
     depends_on:
       - ledger-rest
       - budget-charts
       - gogs
+      - blog
   letsencrypt:
     container_name: letsencrypt
     build:
@@ -68,6 +71,17 @@ services:
     restart: always
     expose:
       - "9857"
+    volumes:
+      - ${ROOT}/etc/letsencrypt:/etc/letsencrypt:ro
+  blog:
+    container_name: blog
+    build:
+      context: blog
+      args:
+        - DOMAIN=${BLOG_DOMAIN}
+    restart: always
+    expose:
+      - "9756"
     volumes:
       - ${ROOT}/etc/letsencrypt:/etc/letsencrypt:ro
   gogs:
