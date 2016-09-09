@@ -17,8 +17,8 @@ server {
     add_header X-Content-Type-Options nosniff;
 
     location / {
-      deny all;
-      return 403;
+      root   /usr/share/chadvoegele.github.io;
+      index  projects.html;
     }
 
     location /ledger_rest/ {
