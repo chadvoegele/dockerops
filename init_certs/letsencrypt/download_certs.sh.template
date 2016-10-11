@@ -2,5 +2,5 @@
 for domain in "$@"
 do
   echo "Downloading cert for $domain"
-  /opt/certbot/venv/bin/certbot certonly ${LE_ENV} --webroot --non-interactive --agree-tos --email "${EMAIL}" -w /tmp/letsencrypt-www -d "$domain"
+  /usr/local/bin/certbot certonly ${LE_ENV} --webroot --non-interactive --agree-tos --email "${EMAIL}" -w /tmp/letsencrypt-www -d "$domain"
 done

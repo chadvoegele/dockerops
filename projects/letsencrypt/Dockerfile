@@ -1,9 +1,24 @@
 FROM ubuntu:xenial
-ARG LE_ENV
-ARG LE_FREQ
+# CERTBOT_VERSION=0.9.1
+ARG CERTBOT_VERSION
+WORKDIR /tmp
 RUN \
       apt-get update && \
-      apt-get install -y cron gettext-base docker.io letsencrypt
+      apt-get install -y cron gettext-base docker.io python-dialog && \
+      apt-get install -y curl gcc python-setuptools python-dev libffi-dev libssl-dev && \
+      LINK="https://codeload.github.com/certbot/certbot/tar.gz/v${CERTBOT_VERSION}" && \
+      DEST="/tmp/certbot-v${CERTBOT_VERSION}.tar.gz" && \
+      CERTBOT_SRC="/tmp/certbot-${CERTBOT_VERSION}" && \
+      curl -o ${DEST} ${LINK} && \
+      tar -xf ${DEST} -C /tmp && \
+      cd "${CERTBOT_SRC}" && \
+      python setup.py build && \
+      python setup.py install --optimize=1 && \
+      cd .. && \
+      rm -rf "${CERTBOT_SRC}" "${DEST}" && \
+      apt-get purge -y curl gcc python-dev libffi-dev libssl-dev
+ARG LE_ENV
+ARG LE_FREQ
 COPY renew.sh.template /tmp/renew.sh.template
 COPY crontab_renew.template /tmp/crontab_renew.template
 RUN \

@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Renewing certs"
-/usr/bin/letsencrypt renew ${LE_ENV}
+/usr/local/bin/certbot renew ${LE_ENV}
 echo "Reloading NGINX config"
 docker kill --signal=HUP nginx-gateway
 echo "Reloading ledger-rest"
