@@ -89,6 +89,8 @@ services:
     container_name: gogs
     build:
       context: gogs
+      args:
+        - DOMAIN=${GIT_DOMAIN}
     restart: always
     ports:
       - "3000"

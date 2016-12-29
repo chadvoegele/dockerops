@@ -1,12 +1,12 @@
 APP_NAME = Gogs: Go Git Service
-RUN_USER = root
+RUN_USER = git
 RUN_MODE = prod
 
 [database]
 DB_TYPE  = sqlite3
 HOST     = 127.0.0.1:3306
 NAME     = gogs
-USER     = root
+USER     = git
 PASSWD   =
 SSL_MODE = disable
 PATH     = /data/gogs_db/gogs.db
@@ -19,8 +19,8 @@ DOMAIN       = ${DOMAIN}
 HTTP_PORT    = 3000
 PROTOCOL     = https
 ROOT_URL     = https://${DOMAIN}/
-CERT_FILE    = /etc/letsencrypt/live/${DOMAIN}/cert.pem
-KEY_FILE     = /etc/letsencrypt/live/${DOMAIN}/privkey.pem
+CERT_FILE    = /etc/letsencrypt_store/cert.pem
+KEY_FILE     = /etc/letsencrypt_store/privkey.pem
 DISABLE_SSH  = false
 SSH_PORT     = 10022
 SSH_LISTEN_PORT     = 22
