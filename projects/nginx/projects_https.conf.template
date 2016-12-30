@@ -25,7 +25,7 @@ server {
         proxy_pass https://ledger-rest:9856/;
     }
 
-    location /budget_charts/ {
-        proxy_pass https://budget-charts:9857/;
+    location /dollar_viz/ {
+        proxy_pass https://dollar-viz:9857/;
     }
 }

@@ -17,12 +17,12 @@ services:
       - ${ROOT}/etc/letsencrypt:/etc/letsencrypt:ro
     links:
       - ledger-rest
-      - budget-charts
+      - dollar-viz
       - gogs
       - blog
     depends_on:
       - ledger-rest
-      - budget-charts
+      - dollar-viz
       - gogs
       - blog
   letsencrypt:
@@ -63,10 +63,10 @@ services:
       - "9856"
       - -e
       - ""
-  budget-charts:
-    container_name: budget-charts
+  dollar-viz:
+    container_name: dollar-viz
     build:
-      context: budget-charts
+      context: dollar-viz
       args:
         - DOMAIN=${DOMAIN}
     restart: always
