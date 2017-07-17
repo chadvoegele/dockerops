@@ -38,5 +38,5 @@ chmod 444 ${CERTS_DEST}/{cert.pem,ca.pem}
 
 source env/projects.sh
 docker-machine projects
-bash init_certs.sh ${DOMAIN} ${GIT_DOMAIN}
+bash init_certs.sh ${DOMAIN} ${CODE_DOMAIN}
 docker-compose up --build -d

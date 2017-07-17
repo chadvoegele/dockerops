@@ -3,7 +3,7 @@ RUN \
       apt-get update && \
       apt-get install -y openssl git
 ARG DOMAIN
-ARG GIT_DOMAIN
+ARG CODE_DOMAIN
 ARG BLOG_DOMAIN
 COPY nginx.conf /etc/nginx/nginx.conf
 RUN rm /etc/nginx/conf.d/default.conf
@@ -15,7 +15,7 @@ RUN \
       git clone https://github.com/chadvoegele/chadvoegele.github.io.git /usr/share/chadvoegele.github.io && \
       envsubst '${DOMAIN}' < /tmp/nginx/projects_https.conf.template > /etc/nginx/conf.d/projects_https.conf && \
       rm /tmp/nginx/projects_https.conf.template && \
-      envsubst '${GIT_DOMAIN}' < /tmp/nginx/git_https.conf.template > /etc/nginx/conf.d/git_https.conf && \
+      envsubst '${CODE_DOMAIN}' < /tmp/nginx/git_https.conf.template > /etc/nginx/conf.d/git_https.conf && \
       rm /tmp/nginx/git_https.conf.template && \
       envsubst '${BLOG_DOMAIN}' < /tmp/nginx/blog_https.conf.template > /etc/nginx/conf.d/blog_https.conf && \
       rm /tmp/nginx/blog_https.conf.template && \

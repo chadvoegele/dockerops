@@ -6,7 +6,7 @@ services:
       context: nginx
       args:
         - DOMAIN=${DOMAIN}
-        - GIT_DOMAIN=${GIT_DOMAIN}
+        - CODE_DOMAIN=${CODE_DOMAIN}
         - BLOG_DOMAIN=${BLOG_DOMAIN}
     restart: always
     ports:
@@ -90,7 +90,7 @@ services:
     build:
       context: gogs
       args:
-        - DOMAIN=${GIT_DOMAIN}
+        - DOMAIN=${CODE_DOMAIN}
     restart: always
     ports:
       - "3000"
