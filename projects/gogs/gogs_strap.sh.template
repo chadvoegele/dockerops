@@ -20,4 +20,4 @@ cp -f "${KEY_FILE}" "${LOCAL_KEY_FILE}"
 chown git:git "${LOCAL_CERT_FILE}"
 chown git:git "${LOCAL_KEY_FILE}"
 
-docker/start.sh $@
+/app/gogs/docker/start.sh $@
