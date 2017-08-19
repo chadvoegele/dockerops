@@ -1,6 +1,6 @@
 #!/bin/bash
 # Following https://docs.docker.com/engine/security/https/
-if [[ $# -eq 0 || $# -eq 1 && $1 -eq '-h' ]]; then
+if [[ $# -eq 0 || $# -eq 1 && "$1" == "-h" ]]; then
   echo "Usage: docker_gen_certs.sh hostname"
   exit 1
 fi
