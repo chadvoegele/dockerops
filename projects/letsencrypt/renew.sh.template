@@ -1,13 +1,18 @@
 #!/bin/bash
-echo "Renewing certs"
+function log() {
+  msg="$1"
+  echo "$(date) $msg"
+}
+
+log "Renewing certs"
 /usr/local/bin/certbot renew ${LE_ENV}
-echo "Reloading NGINX config"
+log "Reloading NGINX config"
 docker kill --signal=HUP nginx-gateway
-echo "Reloading ledger-rest"
+log "Reloading ledger-rest"
 docker restart ledger-rest
-echo "Reloading dollar-viz"
+log "Reloading dollar-viz"
 docker kill --signal=HUP dollar-viz
-echo "Reloading blog"
+log "Reloading blog"
 docker kill --signal=HUP blog
-echo "Reloading gogs"
+log "Reloading gogs"
 docker restart gogs
