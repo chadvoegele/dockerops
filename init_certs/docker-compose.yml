@@ -12,7 +12,7 @@ services:
       args:
         - LE_ENV=${LE_ENV}
         - EMAIL=${EMAIL}
-        - CERTBOT_VERSION=0.16.0
+        - CERTBOT_VERSION=1.1.0
     volumes:
       - ${ROOT}/tmp/letsencrypt-www:/tmp/letsencrypt-www
       - ${ROOT}/etc/letsencrypt:/etc/letsencrypt

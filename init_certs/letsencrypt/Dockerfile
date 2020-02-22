@@ -4,7 +4,7 @@ WORKDIR /tmp
 RUN \
       apt-get update && \
       apt-get install -y cron gettext-base docker.io python-dialog && \
-      apt-get install -y curl gcc python-setuptools python-dev libffi-dev libssl-dev
+      apt-get install -y curl gcc python-setuptools python-dev python-mock libffi-dev libssl-dev
 RUN \
       LINK="https://codeload.github.com/certbot/certbot/tar.gz/v${CERTBOT_VERSION}" && \
       DEST="/tmp/certbot-v${CERTBOT_VERSION}.tar.gz" && \
@@ -12,6 +12,7 @@ RUN \
       curl -o ${DEST} ${LINK} && \
       tar -xf ${DEST} -C /tmp && \
       cd "${CERTBOT_SRC}" && \
+      cd certbot && \
       python setup.py build && \
       python setup.py install --optimize=1 && \
       cd .. && \
