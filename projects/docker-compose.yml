@@ -18,12 +18,10 @@ services:
     links:
       - ledger-rest
       - dollar-viz
-      - gogs
       - blog
     depends_on:
       - ledger-rest
       - dollar-viz
-      - gogs
       - blog
   letsencrypt:
     container_name: letsencrypt
@@ -85,16 +83,3 @@ services:
       - "9756"
     volumes:
       - ${ROOT}/etc/letsencrypt:/etc/letsencrypt:ro
-  gogs:
-    container_name: gogs
-    build:
-      context: gogs
-      args:
-        - DOMAIN=${CODE_DOMAIN}
-    restart: always
-    ports:
-      - "3000"
-      - "10022:22"
-    volumes:
-      - ${ROOT}/etc/letsencrypt:/etc/letsencrypt:ro
-      - ${ROOT}/mnt/git/gogs:/data:rw
